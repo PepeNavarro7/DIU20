@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU3_Lutece.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,9 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
-
+ * :bust_in_silhouette:   José Manuel Navarro Cuartero     :octocat: ([@9pepe7](https://github.com/9pepe7))
+ * :bust_in_silhouette:  Iván Valero Rodríguez     :octocat: ([@IvanitiX](https://github.com/IvanitiX))
 ----- 
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
