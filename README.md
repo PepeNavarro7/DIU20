@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3_Lutece.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Experiencias de compartir ocio 
 
 Descripción: 
 
@@ -30,6 +30,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
+Para este análisis se ha estudiado el caso de MeetUp, ya que al moverse por la página te permite ver, por partes diferenciadas, el objetivo de la página, eventos próximos y grupos cercanos, búsqueda de eventos por categorías y modo de uso, todo con imágenes, espacios y textos claros y simples.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
