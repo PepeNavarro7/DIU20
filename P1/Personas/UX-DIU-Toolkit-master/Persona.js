@@ -28,23 +28,23 @@ angular.module("angular", [])
 
 
 				Id: 0,
-				Name: "Travis Bickle",
-				Photo: "man.png",
-				Quote: "Qué pereza",
+				Name: "Travis Jordan",
+				Photo: "Persona1.jpeg",
+				Quote: "Hasta el mejor escribano echa un borrón",
 				Age: 20,
-				Occupation: "Estudiante",
+				Occupation: "Estudiante de Bellas Artes",
 				Family: "Madre soltera",
 				Location: "Granada",
 				Character: "Introvertido y soñador",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
-				Goals: ["Disfrutar de sus aficiones", "Atreverse a probar nuevas experiencias"],
-				Frustrations: ["Le cuesta salir de su zona de comfort", "Está poco cómodo con gente nueva"],
-				Bio: "Es de Valencia, y vino a Granada hace 2 años a estudiar Bellas Artes. Le gusta dibujar, el manga y el anime, y los videojuegos. Quiere probar nuevas experiencias relacionadas con sus aficiones.",
+				Goals: ["Publicar su propio manga", "Acabar la carrera", "Encontrar pareja"],
+				Frustrations: ["Le cuesta salir de su zona de comfort", "No le gusta su carrera" ,"Está poco cómodo con gente nueva"],
+				Bio: "Nació en Valencia, pero tiene ascencencia estadounidense. Llegó a Granada hace 2 años para estudiar  Bellas Artes. Le gusta dibujar, el manga y el anime, y los videojuegos. Gana dinero haciendo dibujos por encargo en la web",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Movil", Value: 2 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 4 }
 
 				],
-                Contextos: "LLeva un tiempo desocupado y quiere descubrir cosas nuevas en Granada",
+                Contextos: "Quiere desarrollarse como dibujante y hacer nuevas amistades",
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 1 },
 					{ Name: "Online & Social Media", Value: 4 },
@@ -69,12 +69,12 @@ angular.module("angular", [])
 
 
 				Id: 1,
-				Name: "Ellen Ripley",
-				Photo: "Persona2.jpg",
+				Name: "Laura Revelles",
+				Photo: "Persona2.jpeg",
 				Quote: "Tempus fugit",
-				Age: 26,
-				Occupation: "Enfermera",
-				Family: "Padres divorciados, una hermana y un sobrino",
+				Age: 48,
+				Occupation: "Encargada de restaurante",
+				Family: "Una hija",
 				Location: "La Laguna (Tenerife)",
 				Character: "Decidida, valiente y algo alocada",
 				PersonalityTraits: [
@@ -83,9 +83,9 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsiva", Value: 4 },
 					{ Name: "Flemática/apática  Vs   Colérica/visceral", Value: 2 }
 				],
-				Goals: ["Vivir el máximo de experiencias posibles", "Desarrollarse como enfermera", "Afianzar sus amistades"],
-				Frustrations: ["Sentirse con nada que hacer", "No conocer el sitio donde vive", "Aburrirse"],
-				Bio: "Ellen llegó hace unos meses a La Laguna, no conoce a mucha gente, y le gustaría descubrir nuevas actividades para realizar en su nueva ciudad. No tiene mucho tiempo libre por su trabajo, pero el poco que tiene lo aprovecha al máximo"
+				Goals: ["Hacer feliz a su hija", "Sacar adelante su negocio", "Conocer gente nueva"],
+				Frustrations: ["Tener una vida sedentaria","No pasar el suficiente tiempo con su hija","Envejecer"],
+				Bio: "Laura nació en Cádiz, pero se fue a Tenerife tras conocer al padre de su hija. No tiene estudios, pero desde joven comenzó a trabajar tras los fogones. Con sus ahorros, montó un gastrobar, del cual es la encargada. En su tiempo libre, le gusta hacer senderismo y yoga, y pasar tiempo con su hija.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Mobile", Value: 3 },
@@ -93,10 +93,10 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 
 				],
-                Contextos:   "Quiere desconectar y conocer más la isla." ,
+                Contextos:   "Quiere desconectar del trabajo y disfrutar de la naturaleza" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
-					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Online & Social Media", Value: 4 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
