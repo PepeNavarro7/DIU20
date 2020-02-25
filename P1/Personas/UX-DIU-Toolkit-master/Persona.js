@@ -42,22 +42,22 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Disfrutar de sus aficiones", "Atreverse a probar nuevas experiencias"],
+				Frustrations: ["Le cuesta salir de su zona de comfort", "Está poco cómodo con gente nueva"],
+				Bio: "Es de Valencia, y vino a Granada hace 2 años a estudiar Bellas Artes. Le gusta dibujar, el manga y el anime, y los videojuegos. Quiere probar nuevas experiencias relacionadas con sus aficiones.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "RRSS", Value: 1 },
+					{ Name: "Software", Value: 4 }
 
 				],
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",
+                Contextos: "LLeva un tiempo desocupado y quiere descubrir cosas nuevas en Granada",
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Publicidad Tradicional", Value: 1 },
+					{ Name: "Online & Social Media", Value: 4 },
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
 				]
 			},
 			{
@@ -93,12 +93,12 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 
 				],
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Quiere desconectar y conocer más la isla." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
 					{ Name: "Online & Social Media", Value: 2 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
 			}
 		];
