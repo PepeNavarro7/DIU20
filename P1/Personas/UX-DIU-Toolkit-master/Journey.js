@@ -45,7 +45,7 @@ angular.module("angular", [])
                 touch2: "movil",
                 feel2: "2",
                 con2: "No se les ocurre ningún plan",
-                ima2: "cartoon-PCangry.png",
+                ima2: "cartoon-phoning.png",
 
                 /*** PASO #3: ACTUA ***/
 
@@ -53,7 +53,7 @@ angular.module("angular", [])
                 touch3: "ordenador",
                 feel3: "3",
                 con3: "Le preocupa usar una web desconocida",
-                ima3: "cartoon-phone.png",
+                ima3: "cartoon-PChard.png",
 
                 /*** PASO #4: OBSERVA ***/
 
@@ -61,7 +61,7 @@ angular.module("angular", [])
                 touch4: "ordenador (navegador)",
                 feel4: "4",
                 con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                ima4: "cartoon-PCSurprised.png",
 
                  /*** PASO #5: ANALIZA ***/
 
@@ -69,7 +69,7 @@ angular.module("angular", [])
                 touch5: "ordenador (navegador)",
                 feel5: "5",
                 con5: "Tiene que decidir rápido antes de que se acaben las plazas",
-                ima5: "cartoon-phoning.png",
+                ima5: "cartoon-deciding.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
@@ -78,7 +78,7 @@ angular.module("angular", [])
                 touch6: "móvil(whatsapp)",
                 feel6: "3",
                 con6: "Tiene que convencer a sus amigos para que se unan",
-                ima6: "cartoon-resting.png",
+                ima6: "cartoon-happy.png",
 
 			},
 			{
@@ -96,14 +96,14 @@ angular.module("angular", [])
                 touch1: "calendario",
                 feel1: "3",
                 con1: "No sabe cómo llegar a gente nueva",
-                ima1: "cartoon-going.png",
+                ima1: "cartoon-why.png",
 
                 /*** PASO #2: DECISION ***/
                 goal2: "Preguntar a sus allegados por ideas",
                 touch2: "móvil (whastapp)",
                 feel2: "2",
                 con2: "En principio, a ninguno se le ocurre nada",
-                ima2: "cartoon-teamthinking.png",
+                ima2: "cartoon-phone-sitting.png",
 
                 /*** PASO #3: ACTUA ***/
 
@@ -111,23 +111,23 @@ angular.module("angular", [])
                 touch3: "Móvil (llamada)",
                 feel3: "3",
                 con3: "No se fía de la web porque no la conoce",
-                ima3: "cartoon-phoningangry.png",
+                ima3: "cartoon-speaking.png",
 
                 /*** PASO #4: OBSERVA ***/
 
                 goal4: "Idea un plan de intercambio de idiomas en su gastrobar",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
+                touch4: "ordenador (navegador)",
+                feel4: "4",
                 con4: "No hay mucha información sobre cómo hacerlo",
-                ima4: "cartoon-phone-street.png",
+                ima4: "cartoon-writting2.png",
 
                  /*** PASO #5: ANALIZA ***/
 
                 goal5: "Oferta el plan en la web",
-                touch5: "Móvil (webapp)",
-                feel5: "4",
+                touch5: "ordenador (navegador)",
+                feel5: "2",
                 con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                ima5: "cartoon-PCangry.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
@@ -135,8 +135,8 @@ angular.module("angular", [])
                 goal6: "Mucha gente lo reserva",
                 touch6: "Ordenador (reserva OK)",
                 feel6: "5",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                con6: "Tendrá que preparar el local para toda la gente",
+                ima6: "cartoon-shaking.png",
 
 
 
