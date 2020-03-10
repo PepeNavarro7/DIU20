@@ -19,9 +19,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
-kv
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -53,15 +50,7 @@ Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por 
 ![Journey Map 1](P1/img/JourneyMap1.png)
 ![Journey Map 2](P1/img/JourneyMap2.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 [Enlace al Usability Review en Excel](https://github.com/IvanitiX/DIU20/blob/master/P1/Usability-review-template.xlsx)
 **Valoración** : 78. *En general, la experiencia es muy buena, pero a la hora de buscar las actividades, no hay muchas opciones de búsqueda, o están mal etiquetadas en el caso de algunas categorías, y no hay muchas diferencias entre la experiencia de un nuevo usuario y la de un experto de la página.*
