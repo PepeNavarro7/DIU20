@@ -31,7 +31,7 @@ kv
 
 Se ha estudiado el caso de MeetUp, Artery y EatWith. Entre sus características podemos ver la multitud de  opciones para afinarse más a los gustos del usuario, y la sencillez para saber todos los datos relevantes, con letras grandes, espacios bien definidos, botones de opción grandes y coloridos.
 
- La que se adhiere más a estas dos características es MeetUp, siendo esta mi elegida. El landing page genera una buena vista para unirte, y las páginas de evento están reflejando todas las características de diseño y objetivos que se han descrito anteriormente.
+ La que se adhiere más a estas dos características es MeetUp, siendo esta nuestra elegida. El landing page genera una buena vista para unirte, y las páginas de evento están reflejando todas las características de diseño y objetivos que se han descrito anteriormente.
  
   Pero a la hora de entrar en la plataforma con la sesión iniciada no te da la misma experiencia que hacerlo todo sin registrarse, ya que te muestra una lista gigante en formato calendario; o bien un mosaico de grupos. Se podría arreglar utilizando un diseño similar al del inicio con mayor personalización de los eventos que aparecen y sugerencias de grupos similares.
 
