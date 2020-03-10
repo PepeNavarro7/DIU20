@@ -48,6 +48,10 @@ Para poder tener varios puntos de vista, decidimos crear dos personas que tengan
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por un lado la de alguien que desea publicar una actividad, y por otro, alguien que busca realizarla.
+
+![Journey Map 1](P1/img/JourneyMap1.png)
+![Journey Map 2](P1/img/JourneyMap2.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
@@ -59,6 +63,8 @@ Para poder tener varios puntos de vista, decidimos crear dos personas que tengan
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+[Enlace al Usability Review en Excel](https://github.com/IvanitiX/DIU20/blob/master/P1/Usability-review-template.xlsx)
+**Valoración** : 78. *En general, la experiencia es muy buena, pero a la hora de buscar las actividades, no hay muchas opciones de búsqueda, o están mal etiquetadas en el caso de algunas categorías, y no hay muchas diferencias entre la experiencia de un nuevo usuario y la de un experto de la página.*
 
 ## Paso 2. UX Design  
 
