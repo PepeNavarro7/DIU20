@@ -16,31 +16,29 @@
 ![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Se ha estudiado el caso de MeetUp, Artery y EatWith. Entre sus características podemos ver la multitud de  opciones para afinarse más a los gustos del usuario, y la sencillez para saber todos los datos relevantes, con letras grandes, espacios bien definidos, botones de opción grandes y coloridos.
-
- La que se adhiere más a estas dos características es MeetUp, siendo esta nuestra elegida. El landing page genera una buena vista para unirte, y las páginas de evento están reflejando todas las características de diseño y objetivos que se han descrito anteriormente.
+Se ha estudiado el caso de MeetUp, EatWith y Artery. El objetivo común de estas páginas es compartir experiencias de ocio, si bien EatWith se enfoca más en compartir experiencias culinarias y los otros dos son más de variedad (actividades deportivas, de formación, de eventos para compartir experiencias y conocer gente...). Estos eventos suelen estar publicados por el mismo *host* del evento (o en el caso de ***Artery*** el *artista* también) y permiten inscribirse a este, teniendo así una lista de asistentes. Además, cada evento tiene su descripción y una zona resumida que te dice el día, hora, precio (si procede), y localización.
  
 
 
  |Características |Artery |MeetUp     |EatWith     |
  |----------------|-------|-----------|------------|
  |  *Formato*            | Web   | Web + App | Web + App  |
- |  *Búsqueda (keywords)*| ✘     | ✘         | ✘          |
+ |  *Búsqueda (keywords)*| ✔     | ✔         | ✔          |
  |  *Búsqueda(avanzada)* | ✔     | ✔         | ✔          |
- |  *Creación de eventos*| ✘     | ✘         | ✘          |
- |  ***Visualización de eventos:*** | ✔     | ✔   | ✔          |
- |  *->Opción de eventos gratis*| ✘     | ✘         | ✘          |
- |  *->Opción de eventos de pago*| ✘     | ✘         | ✘          |
- |  *->Miembros participantes* | ✔     | ✔   | ✔          |
- |  *-> Marcar como favorito* | ✔     | ✔   | ✔          |
+ |  *Creación de eventos*| ✔     | ✔         | ✔          |
+ |  ***Visualización de eventos:*** |      |   |           |
+ |  *->Opción de eventos gratis*| ✘      | ✔         | ✘          |
+ |  *->Opción de eventos de pago*| ✔     | ✔         |        ✔   |
+ |  *->Miembros participantes* | ✘     | ✔   |✘          |
+ |  *-> Marcar como favorito* | ✘     | ✔   | ✘          |
  |  *-> Mapa de localización* | ✔     | ✔   | ✔          |
- |  *-> Adición de invitados* | ✔     | ✔   | ✔          |
- |  *Seguimiento de grupos o artistas*| ✘     | ✘         | ✘          |
+ |  *-> Adición de invitados* | ✘      |  ✔   | ✔          |
+ |  *Fichas de grupos o individuos*|✔ (Permite contacto con host y con artista)      | ✔(Permite contacto y seguir eventos de este)         | ✔ (Permite reserva directa y contacto)         |
  |  *Centro de ayuda* | ✔     | ✔   | ✔          |
  |  *Contacto por chat online* | ✔     | ✔   | ✔          |
- |  *Versión en español* | ✔     | ✔   | ✔          |
+ |  *Versión en español* | ✘     | ✔   | ✔          |
  
-
+La que hemos elegido en nuestro caso es MeetUp ya que las experiencias son variadas, y tiene más características que las demás. Además, es la más accesible y la que más gente usa.
 
 ![Método UX](../img/Persona.png) 1.b Persona
 -----

@@ -39,6 +39,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por un lado la de alguien que desea publicar una actividad, y por otro, alguien que busca realizarla.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
+----
 
 [Enlace al Usability Review en Excel](https://github.com/IvanitiX/DIU20/blob/master/P1/Usability-review-template.xlsx)
 **Valoración** : 78. *En general, la experiencia es muy buena, pero a la hora de buscar las actividades, no hay muchas opciones de búsqueda, o están mal etiquetadas en el caso de algunas categorías, y no hay muchas diferencias entre la experiencia de un nuevo usuario y la de un experto de la página.*
