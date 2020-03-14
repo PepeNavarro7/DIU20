@@ -34,50 +34,50 @@ angular.module("angular", [])
                 Photo: "Persona1.jpeg",
 
                 /*** PASO #1: INSPIRACION ***/
-                goal1: "Quiere hacer algo este finde",
-                touch1: "calendario",
+                goal1: "Quiere hacer algo este finde y llama a sus amigos",
+                touch1: "movil",
                 feel1: "3",
-                con1: "No se le ocurre qué hacer",
+                con1: "No se les ocurre ningún plan",
                 ima1: "cartoon-planning.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Llama a sus amigos",
-                touch2: "movil",
+                goal2: "Decide buscar en internet y usa una web que oferta planes",
+                touch2: "ordenador",
                 feel2: "2",
-                con2: "No se les ocurre ningún plan",
-                ima2: "cartoon-phoning.png",
+                con2: "Le abruma el diseño de la web",
+                ima2: "cartoon-PChard.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Decide buscar en internet",
+                goal3: "Se registra en una web y se une a un par de grupos con intereses similares a los suyos",
                 touch3: "ordenador",
-                feel3: "3",
-                con3: "Le preocupa usar una web desconocida",
-                ima3: "cartoon-PChard.png",
+                feel3: "4",
+                con3: "No se fía del todo de los grupos, puesto que no los conoce",
+                ima3: "cartoon-deciding.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Usa una web que oferta planes",
-                touch4: "ordenador (navegador)",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCSurprised.png",
+                goal4: "Busca en la web algún evento que esté cerca suya",
+                touch4: "ordenador",
+                feel4: "2",
+                con4: "La herramienta  de búsqueda es complicada y no se aclara con ella",
+                ima4: "cartoon-thinking.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Encuentra varias opciones que encajan en sus preferencias",
+                goal5: "Encuentra varias opciones de eventos que le vienen bien",
                 touch5: "ordenador (navegador)",
-                feel5: "5",
-                con5: "Tiene que decidir rápido antes de que se acaben las plazas",
-                ima5: "cartoon-deciding.png",
+                feel5: "4",
+                con5: "No se atreve a ir sólo, así que avisa a un par de amigos",
+                ima5: "cartoon-phoning.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Reserva 4 plazas para sí y 3 amigos",
+                goal6: "Reserva un plaza y comparte el enlace",
                 touch6: "móvil(whatsapp)",
-                feel6: "3",
-                con6: "Tiene que convencer a sus amigos para que se unan",
+                feel6: "5",
+                con6: "No se pueden resevar varias plazas a la vez",
                 ima6: "cartoon-happy.png",
 
 			},
@@ -99,43 +99,43 @@ angular.module("angular", [])
                 ima1: "cartoon-why.png",
 
                 /*** PASO #2: DECISION ***/
-                goal2: "Preguntar a sus allegados por ideas",
-                touch2: "móvil (whastapp)",
+                goal2: "Le hablan de diversas webs de planes comunes y decide investigarlo",
+                touch2: "móvil (whatsapp)",
                 feel2: "2",
-                con2: "En principio, a ninguno se le ocurre nada",
+                con2: "Hay muchas webs distintas, y ninguna es particularmente accesible",
                 ima2: "cartoon-phone-sitting.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Uno de sus amigos le habla de una web de planes",
-                touch3: "Móvil (llamada)",
+                goal3: "Encuentra una web en la que puede organizar eventos en su bar y se registra",
+                touch3: "ordenador",
                 feel3: "3",
-                con3: "No se fía de la web porque no la conoce",
-                ima3: "cartoon-speaking.png",
+                con3: "Registrarse como host es arduo y cuesta dinero, y no sabe si merecerá la pena",
+                ima3: "cartoon-writting2.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Idea un plan de intercambio de idiomas en su gastrobar",
+                goal4: "Idea un plan de intercambio de idiomas en su gastrobar, y lo oferta",
                 touch4: "ordenador (navegador)",
                 feel4: "4",
-                con4: "No hay mucha información sobre cómo hacerlo",
-                ima4: "cartoon-writting2.png",
+                con4: "Desconoce si va a llegar a mucha gente o poca, o cuánta gente usa la web",
+                ima4: "cartoon-PCtyping.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Oferta el plan en la web",
+                goal5: "Varias personas comienzan a reservar plaza",
                 touch5: "ordenador (navegador)",
-                feel5: "2",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-PCangry.png",
+                feel5: "5",
+                con5: "Con cada reserva recibe un mail, lo que le satura el correo",
+                ima5: "cartoon-speaking.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Mucha gente lo reserva",
+                goal6: "Prepara su gastrobar para el evento",
                 touch6: "Ordenador (reserva OK)",
-                feel6: "5",
-                con6: "Tendrá que preparar el local para toda la gente",
+                feel6: "4",
+                con6: "No tiene forma real de saber cuánta gente realmente acudirá",
                 ima6: "cartoon-shaking.png",
 
 

@@ -42,9 +42,9 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
-				Goals: ["Publicar su propio manga", "Acabar la carrera", "Encontrar pareja"],
-				Frustrations: ["Le cuesta salir de su zona de comfort", "No le gusta su carrera" ,"Está poco cómodo con gente nueva"],
-				Bio: "Nació en Valencia, pero tiene ascencencia estadounidense. Llegó a Granada hace 2 años para estudiar  Bellas Artes. Le gusta dibujar, el manga y el anime, y los videojuegos. Gana dinero haciendo dibujos por encargo en la web",
+				Goals: ["Publicar su propio manga", "Acabar la carrera", "Formar una empresa de ilustración y diseño gráfico"],
+				Frustrations: ["Le cuesta salir de su zona de comfort", "No le entretiene mucho su carrera" ,"Está poco cómodo con gente nueva"],
+				Bio: "Nació y creció en Valencia, sus padres son estadounidenses y se mudaron allí por trabajo. Llegó a Granada hace 2 años para estudiar Bellas Artes en la UGR. Vive en un piso con 2 compañeros de clase. Le gusta dibujar, el manga y el anime, y los videojuegos. Gana dinero haciendo dibujos por encargo en la web",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Movil", Value: 2 },
@@ -72,7 +72,7 @@ angular.module("angular", [])
 				Name: "Laura Revelles",
 				Photo: "Persona2.jpeg",
 				Quote: "Tempus fugit",
-				Age: 48,
+				Age: 54,
 				Occupation: "Encargada de restaurante",
 				Family: "Una hija",
 				Location: "La Laguna (Tenerife)",
@@ -85,7 +85,7 @@ angular.module("angular", [])
 				],
 				Goals: ["Hacer feliz a su hija", "Sacar adelante su negocio", "Conocer gente nueva"],
 				Frustrations: ["Tener una vida sedentaria","No pasar el suficiente tiempo con su hija","Envejecer"],
-				Bio: "Laura nació en Cádiz, pero se fue a Tenerife tras conocer al padre de su hija. No tiene estudios, pero desde joven comenzó a trabajar tras los fogones. Con sus ahorros, montó un gastrobar, del cual es la encargada. En su tiempo libre, le gusta hacer senderismo y yoga, y pasar tiempo con su hija.",
+				Bio: "Laura nació en Cádiz, pero se fue a Tenerife tras conocer al padre de su hija. No tiene estudios, pero desde joven comenzó a trabajar tras los fogones. Con sus ahorros, montó un gastrobar, del cual es la encargada. Tiene una hija de 20 años que estudia en la Universidad de La Laguna, y lleva 14 años divorciada.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Mobile", Value: 3 },
@@ -93,7 +93,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 
 				],
-                Contextos:   "Quiere desconectar del trabajo y disfrutar de la naturaleza" ,
+                Contextos:   "Quiere desconectar del trabajo, hacer senderismo y yoga, pasar tiempo con su hija y disfrutar de la naturaleza" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
 					{ Name: "Online & Social Media", Value: 4 },
