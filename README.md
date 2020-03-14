@@ -26,29 +26,17 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Se ha estudiado el caso de MeetUp, Artery y EatWith. Entre sus características podemos ver la multitud de  opciones para afinarse más a los gustos del usuario, y la sencillez para saber todos los datos relevantes, con letras grandes, espacios bien definidos, botones de opción grandes y coloridos.
-
- La que se adhiere más a estas dos características es MeetUp, siendo esta nuestra elegida. El landing page genera una buena vista para unirte, y las páginas de evento están reflejando todas las características de diseño y objetivos que se han descrito anteriormente.
- 
-  Pero a la hora de entrar en la plataforma con la sesión iniciada no te da la misma experiencia que hacerlo todo sin registrarse, ya que te muestra una lista gigante en formato calendario; o bien un mosaico de grupos. Se podría arreglar utilizando un diseño similar al del inicio con mayor personalización de los eventos que aparecen y sugerencias de grupos similares.
-
- Sobre la creación de grupos, no es que pueda testear mucho ya que crear un grupo cuesta cierto dinero, pero el proceso de creación es bastante simple y llamativo, con solo unas cuantas preguntas puedes tenerlo listo. 
+???
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Para poder tener varios puntos de vista, decidimos crear dos personas que tengan puntos de vista diferentes, y que nos permitan también poder analizar y probar todos los aspectos de este tipo de páginas.
-
-![Persona1](P1/img/Persona1.png) 
-
-![Persona2](P1/img/Persona2.png)
+*Travis*: Sería un caso donde se enfatiza el caso de uso de la página de asistir a eventos.
+*Laura*: Sería el caso contrario, aquella que quiere crear un evento a través de la página para que la gente asista a esta.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por un lado la de alguien que desea publicar una actividad, y por otro, alguien que busca realizarla.
-
-![Journey Map 1](P1/img/JourneyMap1.png)
-![Journey Map 2](P1/img/JourneyMap2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 
