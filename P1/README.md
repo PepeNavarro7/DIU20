@@ -5,7 +5,7 @@
 
 - Desk research: Análisis Competencia 
 - 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
+- 2 User Journey Map  (1 por persona)
 - Revisión de Usabilidad 
 
 
@@ -54,7 +54,7 @@ La que hemos elegido en nuestro caso es MeetUp ya que las experiencias son varia
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
-Una vez hecho la revisión y dada la puntuación, desglosaremos el funcionamiento en los siguientes puntos:
+Una vez hecha la revisión y dada la puntuación, desglosaremos el funcionamiento en los siguientes puntos:
 
 #### Caracteristicas y Funcionalidad
 
