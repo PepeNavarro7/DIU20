@@ -26,7 +26,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-???
+Se ha estudiado tres páginas relacionadas con el tema (MeetUp, Eatwith y Artery) y se ha visto que en general son páginas de ocio donde los *hosts* hacen *eventos* en un lugar concreto y permite que la 
+gente se apunte.Dan toda la información sobre el evento, quien lo lleva y quien asiste. Elegimos MeetUp al final por la completitud de opciones que trae. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -37,12 +38,15 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ----
 
 Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por un lado la de alguien que desea publicar una actividad, y por otro, alguien que busca realizarla.
+*Travis*: Busca un plan para salir por la zona.
+*Laura*: Trata de usar su local para hacer eventos.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
 [Enlace al Usability Review en Excel](https://github.com/IvanitiX/DIU20/blob/master/P1/Usability-review-template.xlsx)
-**Valoración** : 78. *En general, la experiencia es muy buena, pero a la hora de buscar las actividades, no hay muchas opciones de búsqueda, o están mal etiquetadas en el caso de algunas categorías, y no hay muchas diferencias entre la experiencia de un nuevo usuario y la de un experto de la página.*
+**Valoración** : 78. 
+*En general, la experiencia es muy buena, es una página muy completa y bastante user-friendly. Pero a la hora de buscar las actividades, no hay muchas opciones de búsqueda, hay categorías malamente etiquetadas , y no permite hacer cosas más avanzadas y rápidas para usuarios expertos. Nuestras personas, en general, podrían navegar por la página sin muchas dificultades.*
 
 ## Paso 2. UX Design  
 

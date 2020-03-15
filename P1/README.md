@@ -50,3 +50,48 @@ La que hemos elegido en nuestro caso es MeetUp ya que las experiencias son varia
 ----
 ![Journey Map 1](img/JourneyMap1.png)
 ![Journey Map 2](img/JourneyMap2.png)
+
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
+----
+
+Una vez hecho la revisión y dada la puntuación, desglosaremos el funcionamiento en los siguientes puntos:
+
+#### Caracteristicas y Funcionalidad
+
+En general, todo está bien. Todo cumple con los flujos de procedimientos, y sus consiguientes metas y objetivos. Las llamadas a la acción son claras y etiquetadas (quitando algún enlace con tonos grises). Lo unico malo es que no se adapta este diseño a personas expertas, haciendo que pase por el mismo flujo que un novato.
+
+#### Página de inicio
+
+El orden de la landing page está bien, pero quizás debería cambiarse algunos elementos del orden, y eliminar otros.
+
+#### Navegación
+
+Es un punto fuerte de la página. Se puede buscar desde los navegadores tradicionales, y tiene una URL sencilla. Las secciones se pueden entender fácilmente (sobre todo si sabes inglés). Quitando eso, cada evento tiene una id, cosa que es entendible ya que dos eventos iguales podrían causar errores en la lógica de la aplicación.
+
+#### Búsqueda
+
+Es un gran punto débil. La búsqueda por keywords va un poco "de aquella manera", es decir, que los resultados varían según le des a buscar con una misma keyword, y es exclusivo de cuentas registradas. La búsqueda avanzada se basa en categorías con algunas etiquetas que no dan el mensaje correctamente, y que hay pocas opciones de filtrado más, si bien son las esenciales. Echaríamos en falta, por ejemplo, el filtrado por precio.
+
+#### Control y feedback
+
+El feedback general está bien, lo unico malo es que no se pueden deshacer acciones con volver atrás. Se debe ir a un botón desaturado y ver las opciones en un desplegable.
+
+#### Formularios
+
+No hay mucho que comentar. La información que piden es relevante y mínima, suficiente para hacer las gestiones.
+
+#### Errores
+
+Estos se definen de forma clara, sin códigos extraños para novatos *(404, 403 Forbidden...)*, sino lo que pasa y qué hacer. Se puede volver atrás o volver a la landing page desde allí.
+
+#### Contenido y texto
+
+Etá bastante bien, pero como se dijo anteriormente, hay etiquetas que no representan bien las categorías; y que no permiten imprimir las cosas correctamente (no hay una página de impresión o si imprimes tal documento todo se descoloca.)
+
+#### Ayuda
+
+MeetUp posee un centro de ayuda tanto para hosts como para asistentes. Además de ello, hay un soporte en línea para que los usuarios hagan cualquier pregunta.
+
+#### Rendimiento
+
+La web responde rápidamente y sin problemas, desde cualquier dispositivo, además de su app. 
