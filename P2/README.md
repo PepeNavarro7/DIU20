@@ -1,7 +1,7 @@
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 
@@ -24,15 +24,29 @@
 >>> Problema e hipótesis
 >>> (150-200 caracteres)
 
+El problema que se ve aquí es que no queda muy claro el objetivo de MeetUp, así que trataremos de hacer más llamativos los eventos y las posibilidades que da este tipo de aplicaciones.
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+
+![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
+||Grupo 1 (Creadores)|Grupo 2 (Usuarios Asiduos)|Grupo 3 (Usuarios casuales)|
+|-|------------------|--------------------------|---------------------------|
+|Crear un grupo|M|||
+|Crear un evento|H|||
+|Unirse a un grupo|L|M|L|
+|Unirse a un evento|M|H|M|
+|Registrarse|L|L|L|
+|Mandar un mensaje|M|M|L|
+|Hacer una valoración|L|M|L|
+|Publicitar un evento|L|||
 
-![Método UX](img/labelling.png) 2.c Labelling 
+![Sitemap](img/sitemap.jpeg)
+
+![Método UX](../img/labelling.png) 2.c Labelling 
 ----
 
 
@@ -40,10 +54,27 @@
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Login  | Acceder a plataforma
+  Pagina principal| Pagina donde se llega desde el buscador
+  Grupos| Conjunto específico de personas que hacen eventos
+  Eventos| Reuniones donde se hablan de temas concretos
+  Ayuda| Sección para resolver aquellas dudas sobre la página
+  Contacto| Sección para contactar con el webmaster
+  Reserva de plaza| Solicitud para participar en el evento
+  Plataforma de pago| Lugar donde se redirecciona en caso de requerir pago
+  Contactar con el organizador| Lugar de la página donde aclara dudas o referir incidentes al organizador del evento
+  Panel de control de grupos| Zona exclusiva para organizadores o creadores de eventos para gestionar los grupos que dirigen y los eventos correspondientes
+  Gestión de grupos| Zona de organizadores/creadores de eventos para gestionar los grupos pertenecientes.
+  Gestión de eventos| Zona de gestión para organizadores dirigido a crear, notificar o modificar eventos
+  Crear (evento/grupo)| Permite crear un nuevo grupo(o evento)
+  Modificar (evento/grupo)| Permite modificar los datos o eliminar un grupo (o evento)
+  Publicidad de eventos| Zona de gestión de marketing de eventos a través de agencias de publicidad por Internet
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
+
+### Página principal
+![Pagina Principal](img/PagPrincipal.png)
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
