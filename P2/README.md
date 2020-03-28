@@ -77,4 +77,11 @@ Término | Significado
 ### Página principal
 ![Pagina Principal](img/PagPrincipal.png)
 
+### Página de evento
+La parte grisácea es un popup que se pone en la parte inferior.
+![Evento](img/Evento.png)
+
+### Página de grupo
+![Grupo](img/Grupo.png)
+
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
