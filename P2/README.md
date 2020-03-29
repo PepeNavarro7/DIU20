@@ -84,4 +84,25 @@ La parte grisácea es un popup que se pone en la parte inferior.
 ### Página de grupo
 ![Grupo](img/Grupo.png)
 
+### Página de ayuda
+#### Principal
+![Ayuda Principal](img/PagPAyuda.png)
+
+#### Topic
+![Ayuda Topic](img/PagTemaAyuda.png)
+
+#### Pregunta
+![Ayuda Pregunta](img/PagPregAyuda.png)
+
+### Contacto (popup)
+![Contacto](img/Contacto.png)
+
+### Contacto con organizador (popup)
+![Contacto Organizador](img/ContactoOrganizador.png)
+
+### Página de login
+![Login](img/Login.png)
+
+
+
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
