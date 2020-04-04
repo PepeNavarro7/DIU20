@@ -16,7 +16,8 @@
 |  **Preguntas** | **Nuevas ideas**|
 |Pagar por publicitar eventos por la página o anuncios de la web.|Usando geolocalización, que se avise de eventos cercanos a la ubicación del usuario|
 |Sistema de verificación para no crear eventos “falsos”|Grupo de Whatsapp/Telegram/Otra aplicación de mensajería integrada o externa para coordinación.|
-|Sistema de valoración
+|Sistema de valoración|Posibilidad de clsificar a los asistentes según sean VIPs, prensa....|
+|Poder compartir los eventos vía RRSS|Posibilidad de "leer la página" para ciegos
   
   
   
@@ -25,6 +26,9 @@
 >>> (150-200 caracteres)
 
 El problema que se ve aquí es que no queda muy claro el objetivo de MeetUp, así que trataremos de hacer más llamativos los eventos y las posibilidades que da este tipo de aplicaciones.
+La aplicación tratará de centralizar los eventos de grupos y personas en todo el mundo, de forma que conecten los que hacen eventos y los usuarios que quieran unirse a tales eventos, y hacer comunidad con respecto a esos grupos. Para ello la app deberá ver los eventos de forma clara para todos, de forma que habría que adaptar esa visualización para audiencias discapacitadas; y que haga de "galería de carteles", con la información sobre los eventos de la zona.
+De esa forma, los usuarios podrían digerir toda la información que rige el evento y decidir si se unen al evento. Si es de pago, el proceso de compra debería ser simple y fácil de usar.
+Es posible que alguno necesite ayuda, si bien trataremos de reducir lo máximo posible. Para ello la aplicación dispondría de una página de ayuda y de un formulario de contacto.
 
 
 
@@ -43,6 +47,10 @@ El problema que se ve aquí es que no queda muy claro el objetivo de MeetUp, as�
 |Mandar un mensaje|M|M|L|
 |Hacer una valoración|L|M|L|
 |Publicitar un evento|L|||
+|Pedir ayuda|H|M|M|
+|Solicitar contacto(grupo)|L|L|L|
+|Solicitar contacto(app)|L|L|L|
+|Pagar por un evento||M|M|
 
 ![Sitemap](img/sitemap.jpeg)
 
