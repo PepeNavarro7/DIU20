@@ -16,7 +16,7 @@
 |  **Preguntas** | **Nuevas ideas**|
 |Pagar por publicitar eventos por la página o anuncios de la web.|Usando geolocalización, que se avise de eventos cercanos a la ubicación del usuario|
 |Sistema de verificación para no crear eventos “falsos”|Grupo de Whatsapp/Telegram/Otra aplicación de mensajería integrada o externa para coordinación.|
-|Sistema de valoración|Posibilidad de clsificar a los asistentes según sean VIPs, prensa....|
+|Sistema de valoración|Posibilidad de clasificar a los asistentes según sean VIPs, prensa....|
 |Poder compartir los eventos vía RRSS|Posibilidad de "leer la página" para ciegos
   
   
