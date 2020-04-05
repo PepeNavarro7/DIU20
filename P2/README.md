@@ -51,6 +51,8 @@ Es posible que alguno necesite ayuda, si bien trataremos de reducir lo máximo p
 |Solicitar contacto(grupo)|L|L|L|
 |Solicitar contacto(app)|L|L|L|
 |Pagar por un evento||M|M|
+|Consultar "Acerca de..."|L|L|L|
+|Consultar Términos y Condiciones|H|L|L|
 
 ![Sitemap](img/sitemap.jpeg)
 
