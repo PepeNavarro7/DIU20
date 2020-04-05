@@ -1,0 +1,655 @@
+<!DOCTYPE html><html><head>
+      <title>README</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:////home/ivan/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.5.2/node_modules/@shd101wyy/mume/dependencies/katex/katex.min.css">
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+
+      <style>
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview  ">
+      <h2 class="mume-header" id="paso-2-ux-design">Paso 2. UX Design</h2>
+
+<h2><img src="../img/feedback-capture-grid.png" alt="M&#xE9;todo UX"> 2.a Feedback Capture Grid</h2>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Comenta con un diagrama los aspectos m&#xE1;s destacados a modo de conclusion de la pr&#xE1;ctica anterior,</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Interesante</th>
+<th>Cr&#xED;ticas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Crear un grupo es bastante f&#xE1;cil (al menos hasta llegar al proceso de pago)</td>
+<td>Homepage para usuarios registrados est&#xE1; mal estructurado.</td>
+</tr>
+<tr>
+<td>Informaci&#xF3;n de eventos a golpe de vista</td>
+<td>B&#xFA;squeda de eventos pobre y poco amigable.</td>
+</tr>
+<tr>
+<td>F&#xE1;cil de encontrar por los buscadores</td>
+<td>No hay versi&#xF3;n para imprimir tampoco se puede imprimir la p&#xE1;gina del evento correctamente.</td>
+</tr>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td><strong>Nuevas ideas</strong></td>
+</tr>
+<tr>
+<td>Pagar por publicitar eventos por la p&#xE1;gina o anuncios de la web.</td>
+<td>Usando geolocalizaci&#xF3;n, que se avise de eventos cercanos a la ubicaci&#xF3;n del usuario</td>
+</tr>
+<tr>
+<td>Sistema de verificaci&#xF3;n para no crear eventos &#x201C;falsos&#x201D;</td>
+<td>Grupo de Whatsapp/Telegram/Otra aplicaci&#xF3;n de mensajer&#xED;a integrada o externa para coordinaci&#xF3;n.</td>
+</tr>
+<tr>
+<td>Sistema de valoraci&#xF3;n</td>
+<td>Posibilidad de clasificar a los asistentes seg&#xFA;n sean VIPs, prensa....</td>
+</tr>
+<tr>
+<td>Poder compartir los eventos v&#xED;a RRSS</td>
+<td>Posibilidad de &quot;leer la p&#xE1;gina&quot; para ciegos</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>&#xBF;Que planteas como &quot;propuesta de valor&quot; para un nuevo dise&#xF1;o de aplicaci&#xF3;n para economia colaborativa ?<br>
+Problema e hip&#xF3;tesis<br>
+(150-200 caracteres)</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>El problema que se ve aqu&#xED; es que no queda muy claro el objetivo de MeetUp, as&#xED; que trataremos de hacer m&#xE1;s llamativos los eventos y las posibilidades que da este tipo de aplicaciones.<br>
+La aplicaci&#xF3;n se basa en un conjunto de grupos que se reunen en una localizaci&#xF3;n, y estos hacen una serie de eventos. Por ello, la aplicaci&#xF3;n deber&#xE1; visualizar informaci&#xF3;n sobre los grupos, y cada uno de los eventos que hacen.<br>
+Cualquier persona que entre a la aplicaci&#xF3;n (a partir de ahora Usuario) podr&#xE1; ver esos eventos y unirse a ellos. La aplicaci&#xF3;n requerir&#xED;a que tal usuario se registre o se identifique (seg&#xFA;n haya entrado por primera vez o ya ha estado antes). Al haber posibilidad de que los eventos sean de paga, habr&#xED;a que permitir pasar por una plataforma de pago sencilla y f&#xE1;cil de usar.<br>
+Una vez unido al evento este usuario tendr&#xED;a que estar al pendiente de posibles comunicaciones e incidencias, por lo que la app tendr&#xED;a que tener un sistema de notificaciones y la posibilidad de contactar con quien organiza el evento para cualquier cosa que tenga que ver con el grupo o el evento.<br>
+Una vez finalice el evento el usuario podr&#xED;a valorarlo y unirse al grupo que lo ha hecho por si quiere asistir a m&#xE1;s eventos.</p>
+<p>Por otra parte, habr&#xE1; gente que tendr&#xE1; que crear tales grupos y eventos (los llamaremos creadores). Estos podr&#xE1;n crear grupos y, a trav&#xE9;s de ellos, los eventos. Adem&#xE1;s deber&#xED;an poder modificar sus par&#xE1;metros en cualquier momento (o eliminarlos incluso)</p>
+<p>Ambos tipos de personas (Creadores o usuarios) pueden tener inquietudes, dudas o problemas. Por ello podr&#xED;an pedir ayuda a los creadores de la app a trav&#xE9;s de unas preguntas frecuentes o un forrmulario de contacto a la empresa. Adem&#xE1;s la empresa tiene unas bases legales que tienen que estar expuestas, como los Terminos y Condiciones y el Acerca de.</p>
+<h2><img src="../img/Sitemap.png" alt="M&#xE9;todo UX"> 2.b Tasks &amp; Sitemap</h2>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Definir &quot;User Map&quot; y &quot;Task Flow&quot; ...</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Grupo 1 (Creadores)</th>
+<th>Grupo 2 (Usuarios Asiduos)</th>
+<th>Grupo 3 (Usuarios casuales)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Crear un grupo</td>
+<td>M</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Crear un evento</td>
+<td>H</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Unirse a un grupo</td>
+<td>L</td>
+<td>M</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Unirse a un evento</td>
+<td>M</td>
+<td>H</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Registrarse</td>
+<td>L</td>
+<td>L</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Mandar un mensaje</td>
+<td>M</td>
+<td>M</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Hacer una valoraci&#xF3;n</td>
+<td>L</td>
+<td>M</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Publicitar un evento</td>
+<td>L</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Consultar ayuda</td>
+<td>H</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Solicitar contacto(grupo)</td>
+<td>L</td>
+<td>L</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Solicitar contacto(app)</td>
+<td>L</td>
+<td>L</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Pagar por un evento</td>
+<td></td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Consultar &quot;Acerca de...&quot;</td>
+<td>L</td>
+<td>L</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Consultar T&#xE9;rminos y Condiciones</td>
+<td>H</td>
+<td>L</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Consultar eventos</td>
+<td>M</td>
+<td>H</td>
+<td>H</td>
+</tr>
+<tr>
+<td>Consultar grupos</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Consultar perfil de usuario</td>
+<td>L</td>
+<td>L</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Consultar mensajes</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Consultar notificaciones</td>
+<td>H</td>
+<td>M</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h2 class="mume-header" id="sitemap">Sitemap</h2>
+
+<p><img src="img/Sitemap.png" alt="Sitemap"></p>
+<h2><img src="../img/labelling.png" alt="M&#xE9;todo UX"> 2.c Labelling</h2>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Identificar t&#xE9;rminos para di&#xE1;logo con usuario</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>T&#xE9;rmino</th>
+<th>Significado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Login</td>
+<td>Acceder a plataforma</td>
+</tr>
+<tr>
+<td>Pagina principal</td>
+<td>Pagina donde se llega desde el buscador</td>
+</tr>
+<tr>
+<td>Grupos</td>
+<td>Conjunto espec&#xED;fico de personas que hacen eventos</td>
+</tr>
+<tr>
+<td>Eventos</td>
+<td>Reuniones donde se hablan de temas concretos</td>
+</tr>
+<tr>
+<td>Ayuda</td>
+<td>Secci&#xF3;n para resolver aquellas dudas sobre la p&#xE1;gina</td>
+</tr>
+<tr>
+<td>Contacto</td>
+<td>Secci&#xF3;n para contactar con el webmaster</td>
+</tr>
+<tr>
+<td>Reserva de plaza</td>
+<td>Solicitud para participar en el evento</td>
+</tr>
+<tr>
+<td>Plataforma de pago</td>
+<td>Lugar donde se redirecciona en caso de requerir pago</td>
+</tr>
+<tr>
+<td>Contactar con el organizador</td>
+<td>Lugar de la p&#xE1;gina donde aclara dudas o referir incidentes al organizador del evento</td>
+</tr>
+<tr>
+<td>Panel de control de grupos</td>
+<td>Zona exclusiva para organizadores o creadores de eventos para gestionar los grupos que dirigen y los eventos correspondientes</td>
+</tr>
+<tr>
+<td>Gesti&#xF3;n de grupos</td>
+<td>Zona de organizadores/creadores de eventos para gestionar los grupos pertenecientes.</td>
+</tr>
+<tr>
+<td>Gesti&#xF3;n de eventos</td>
+<td>Zona de gesti&#xF3;n para organizadores dirigido a crear, notificar o modificar eventos</td>
+</tr>
+<tr>
+<td>Crear (evento/grupo)</td>
+<td>Permite crear un nuevo grupo(o evento)</td>
+</tr>
+<tr>
+<td>Modificar (evento/grupo)</td>
+<td>Permite modificar los datos o eliminar un grupo (o evento)</td>
+</tr>
+<tr>
+<td>Publicidad de eventos</td>
+<td>Zona de gesti&#xF3;n de marketing de eventos a trav&#xE9;s de agencias de publicidad por Internet</td>
+</tr>
+<tr>
+<td>Temas de ayuda</td>
+<td>T&#xF3;picos o temas en los que se dividen las distintas posibles preguntas de la p&#xE1;gina de ayuda</td>
+</tr>
+<tr>
+<td>FAQs</td>
+<td>Del Ingl&#xE9;s &quot;Frequently Asked Questions&quot;, se tratan de las preguntas frecuentes sobre tal t&#xF3;pico</td>
+</tr>
+<tr>
+<td>Pregunta</td>
+<td>La p&#xE1;gina correspondiente a tal pregunta.</td>
+</tr>
+<tr>
+<td>Acerca de</td>
+<td>Informaci&#xF3;n sobre la aplicaci&#xF3;n y la empresa.</td>
+</tr>
+<tr>
+<td>T&#xE9;rminos y Condiciones</td>
+<td>Informaci&#xF3;n y bases legales del us de la aplicaci&#xF3;n.</td>
+</tr>
+<tr>
+<td>Usuario</td>
+<td>Perfil y algunos datos personales b&#xE1;sicos del usuario.</td>
+</tr>
+</tbody>
+</table>
+<h2><img src="../img/Wireframes.png" alt="M&#xE9;todo UX"> 2.d Wireframes</h2>
+<h3 class="mume-header" id="p%C3%A1gina-principal">P&#xE1;gina principal</h3>
+
+<p><img src="img/PagPrincipal(1).png" alt="Pagina Principal"></p>
+<h3 class="mume-header" id="p%C3%A1gina-de-evento">P&#xE1;gina de evento</h3>
+
+<p><img src="img/Evento(1).png" alt="Evento"></p>
+<h3 class="mume-header" id="p%C3%A1gina-de-grupo">P&#xE1;gina de grupo</h3>
+
+<p><img src="img/Grupo(1).png" alt="Grupo"></p>
+<h3 class="mume-header" id="p%C3%A1gina-de-ayuda">P&#xE1;gina de ayuda</h3>
+
+<h4 class="mume-header" id="principal">Principal</h4>
+
+<p><img src="img/Ayuda.png" alt="Ayuda Principal"></p>
+<h4 class="mume-header" id="topic">Topic</h4>
+
+<p><img src="img/AyudaTopic.png" alt="Ayuda Topic"></p>
+<h4 class="mume-header" id="pregunta">Pregunta</h4>
+
+<p><img src="img/AyudaTopic(1).png" alt="Ayuda Pregunta"></p>
+<h3 class="mume-header" id="contacto-popup">Contacto (popup)</h3>
+
+<p><img src="img/Contacto(1).png" alt="Contacto"></p>
+<h3 class="mume-header" id="contacto-con-organizador-popup">Contacto con organizador (popup)</h3>
+
+<p><img src="img/ContactoOrganizador(1).png" alt="Contacto Organizador"></p>
+<h3 class="mume-header" id="p%C3%A1gina-de-login">P&#xE1;gina de login</h3>
+
+<p><img src="img/Login.png" alt="Login"></p>
+<h3 class="mume-header" id="acerca-de">Acerca de</h3>
+
+<p><img src="img/AcercaDe.png" alt="Acerca de"></p>
+<h3 class="mume-header" id="t%C3%A9rminos-y-condiciones">T&#xE9;rminos y Condiciones</h3>
+
+<p><img src="img/Terms.png" alt="TyC"></p>
+<h3 class="mume-header" id="pesta%C3%B1a-de-usuario">Pesta&#xF1;a de Usuario</h3>
+
+<p><img src="img/PestaniaUsuario.png" alt="Usuario"></p>
+<h3 class="mume-header" id="pesta%C3%B1a-de-eventos">Pesta&#xF1;a de Eventos</h3>
+
+<p><img src="img/PestaniaEventos.png" alt="Eventos"></p>
+<h3 class="mume-header" id="pesta%C3%B1a-de-grupos">Pesta&#xF1;a de Grupos</h3>
+
+<p><img src="img/PestaniaGrupos.png" alt="Grupos"></p>
+<h3 class="mume-header" id="pesta%C3%B1a-de-notificaciones">Pesta&#xF1;a de Notificaciones</h3>
+
+<p><img src="img/PestaniaNotificaciones.png" alt="Notificaciones"></p>
+<h3 class="mume-header" id="unirse-a-evento">Unirse a evento</h3>
+
+<p><img src="img/UnirseEvento.png" alt="Unirse"></p>
+<h3 class="mume-header" id="pagar-evento">Pagar evento</h3>
+
+<p><img src="img/PagoEvento.png" alt="Pago"></p>
+<h3 class="mume-header" id="gesti%C3%B3n-de-grupos-crear-y-modificar">Gesti&#xF3;n de grupos (crear y modificar)</h3>
+
+<p><img src="img/PantallaCrearGrupo.png" alt="CreaGrupo"><br>
+<img src="img/PantallaModificarGrupo.png" alt="ModGrupo"></p>
+<h3 class="mume-header" id="gesti%C3%B3n-de-eventos-crear-y-modificar">Gesti&#xF3;n de eventos (crear y modificar)</h3>
+
+<p><img src="img/PantallaCrearEvento.png" alt="CreaEvento"><br>
+<img src="img/PantallaModificarEvento.png" alt="ModEvento"></p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Plantear el  dise&#xF1;o del layout para Web/movil (organizaci&#xF3;n y simulaci&#xF3;n )</p>
+</blockquote>
+</blockquote>
+</blockquote>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>

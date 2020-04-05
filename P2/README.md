@@ -57,10 +57,16 @@ Ambos tipos de personas (Creadores o usuarios) pueden tener inquietudes, dudas o
 |Pagar por un evento||M|M|
 |Consultar "Acerca de..."|L|L|L|
 |Consultar Términos y Condiciones|H|L|L|
+|Consultar eventos|M|H|H
+|Consultar grupos|M|M|M
+Consultar perfil de usuario|L|L|L
+Consultar mensajes|M|M|M
+Consultar notificaciones|H|M|M|
+
 
 ## Sitemap
 
-![Sitemap](img/Sitemap\(1\).png)
+![Sitemap](img/Sitemap.png)
 
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
@@ -90,39 +96,73 @@ Término | Significado
   Pregunta| La página correspondiente a tal pregunta.
   Acerca de | Información sobre la aplicación y la empresa.
   Términos y Condiciones | Información y bases legales del us de la aplicación.
+  Usuario| Perfil y algunos datos personales básicos del usuario.
 
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
 ### Página principal
-![Pagina Principal](img/PagPrincipal.png)
+![Pagina Principal](img/PagPrincipal\(1\).png)
 
 ### Página de evento
-La parte grisácea es un popup que se pone en la parte inferior.
-![Evento](img/Evento.png)
+![Evento](img/Evento\(1\).png)
 
 ### Página de grupo
-![Grupo](img/Grupo.png)
+![Grupo](img/Grupo\(1\).png)
 
 ### Página de ayuda
 #### Principal
-![Ayuda Principal](img/PagPAyuda.png)
+![Ayuda Principal](img/Ayuda.png)
 
 #### Topic
-![Ayuda Topic](img/PagTemaAyuda.png)
+![Ayuda Topic](img/AyudaTopic.png)
 
 #### Pregunta
-![Ayuda Pregunta](img/PagPregAyuda.png)
+![Ayuda Pregunta](img/AyudaTopic\(1\).png)
 
 ### Contacto (popup)
-![Contacto](img/Contacto.png)
+![Contacto](img/Contacto\(1\).png)
 
 ### Contacto con organizador (popup)
-![Contacto Organizador](img/ContactoOrganizador.png)
+![Contacto Organizador](img/ContactoOrganizador\(1\).png)
 
 ### Página de login
 ![Login](img/Login.png)
+
+### Acerca de
+![Acerca de](img/AcercaDe.png)
+
+### Términos y Condiciones
+![TyC](img/Terms.png)
+
+### Pestaña de Usuario
+![Usuario](img/PestaniaUsuario.png)
+
+### Pestaña de Eventos
+![Eventos](img/PestaniaEventos.png)
+
+### Pestaña de Grupos
+![Grupos](img/PestaniaGrupos.png)
+
+### Pestaña de Notificaciones
+![Notificaciones](img/PestaniaNotificaciones.png)
+
+### Unirse a evento
+![Unirse](img/UnirseEvento.png)
+
+### Pagar evento
+![Pago](img/PagoEvento.png)
+
+### Gestión de grupos (crear y modificar)
+
+![CreaGrupo](img/PantallaCrearGrupo.png)
+![ModGrupo](img/PantallaModificarGrupo.png)
+
+### Gestión de eventos (crear y modificar)
+
+![CreaEvento](img/PantallaCrearEvento.png)
+![ModEvento](img/PantallaModificarEvento.png)
 
 
 
