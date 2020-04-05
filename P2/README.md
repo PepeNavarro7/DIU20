@@ -54,7 +54,10 @@ Es posible que alguno necesite ayuda, si bien trataremos de reducir lo máximo p
 |Consultar "Acerca de..."|L|L|L|
 |Consultar Términos y Condiciones|H|L|L|
 
-![Sitemap](img/sitemap.jpeg)
+## Sitemap
+Las flechas punteadas son 
+
+![Sitemap](img/Sitemap\(1\).png)
 
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
@@ -79,6 +82,11 @@ Término | Significado
   Crear (evento/grupo)| Permite crear un nuevo grupo(o evento)
   Modificar (evento/grupo)| Permite modificar los datos o eliminar un grupo (o evento)
   Publicidad de eventos| Zona de gestión de marketing de eventos a través de agencias de publicidad por Internet
+  Temas de ayuda| Tópicos o temas en los que se dividen las distintas posibles preguntas de la página de ayuda
+  FAQs|Del Inglés "Frequently Asked Questions", se tratan de las preguntas frecuentes sobre tal tópico
+  Pregunta| La página correspondiente a tal pregunta.
+  Acerca de | Información sobre la aplicación y la empresa.
+  Términos y Condiciones | Información y bases legales del us de la aplicación.
 
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
