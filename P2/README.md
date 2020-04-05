@@ -59,7 +59,6 @@ Ambos tipos de personas (Creadores o usuarios) pueden tener inquietudes, dudas o
 |Consultar Términos y Condiciones|H|L|L|
 
 ## Sitemap
-Las flechas punteadas son 
 
 ![Sitemap](img/Sitemap\(1\).png)
 
