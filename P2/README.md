@@ -26,10 +26,14 @@
 >>> (150-200 caracteres)
 
 El problema que se ve aquí es que no queda muy claro el objetivo de MeetUp, así que trataremos de hacer más llamativos los eventos y las posibilidades que da este tipo de aplicaciones.
-La aplicación tratará de centralizar los eventos de grupos y personas en todo el mundo, de forma que conecten los que hacen eventos y los usuarios que quieran unirse a tales eventos, y hacer comunidad con respecto a esos grupos. Para ello la app deberá ver los eventos de forma clara para todos, de forma que habría que adaptar esa visualización para audiencias discapacitadas; y que haga de "galería de carteles", con la información sobre los eventos de la zona.
-De esa forma, los usuarios podrían digerir toda la información que rige el evento y decidir si se unen al evento. Si es de pago, el proceso de compra debería ser simple y fácil de usar.
-Es posible que alguno necesite ayuda, si bien trataremos de reducir lo máximo posible. Para ello la aplicación dispondría de una página de ayuda y de un formulario de contacto.
+La aplicación se basa en un conjunto de grupos que se reunen en una localización, y estos hacen una serie de eventos. Por ello, la aplicación deberá visualizar información sobre los grupos, y cada uno de los eventos que hacen. 
+Cualquier persona que entre a la aplicación (a partir de ahora Usuario) podrá ver esos eventos y unirse a ellos. La aplicación requeriría que tal usuario se registre o se identifique (según haya entrado por primera vez o ya ha estado antes). Al haber posibilidad de que los eventos sean de paga, habría que permitir pasar por una plataforma de pago sencilla y fácil de usar. 
+Una vez unido al evento este usuario tendría que estar al pendiente de posibles comunicaciones e incidencias, por lo que la app tendría que tener un sistema de notificaciones y la posibilidad de contactar con quien organiza el evento para cualquier cosa que tenga que ver con el grupo o el evento.
+Una vez finalice el evento el usuario podría valorarlo y unirse al grupo que lo ha hecho por si quiere asistir a más eventos.
 
+Por otra parte, habrá gente que tendrá que crear tales grupos y eventos (los llamaremos creadores). Estos podrán crear grupos y, a través de ellos, los eventos. Además deberían poder modificar sus parámetros en cualquier momento (o eliminarlos incluso)
+
+Ambos tipos de personas (Creadores o usuarios) pueden tener inquietudes, dudas o problemas. Por ello podrían pedir ayuda a los creadores de la app a través de unas preguntas frecuentes o un forrmulario de contacto a la empresa. Además la empresa tiene unas bases legales que tienen que estar expuestas, como los Terminos y Condiciones y el Acerca de.
 
 
 ![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
@@ -47,7 +51,7 @@ Es posible que alguno necesite ayuda, si bien trataremos de reducir lo máximo p
 |Mandar un mensaje|M|M|L|
 |Hacer una valoración|L|M|L|
 |Publicitar un evento|L|||
-|Pedir ayuda|H|M|M|
+|Consultar ayuda|H|M|M|
 |Solicitar contacto(grupo)|L|L|L|
 |Solicitar contacto(app)|L|L|L|
 |Pagar por un evento||M|M|
