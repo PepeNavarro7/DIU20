@@ -55,110 +55,140 @@ Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por 
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
 
  Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+| ------------- | -------|
+| Crear un grupo es bastante fácil (al menos hasta llegar al proceso de pago)| Homepage para usuarios registrados está mal estructurado.|
+|Información de eventos a golpe de vista| Búsqueda de eventos pobre y poco amigable.|
+|Fácil de encontrar por los buscadores|No hay versión para imprimir tampoco se puede imprimir la página del evento correctamente.|
+|  **Preguntas** | **Nuevas ideas**|
+|Pagar por publicitar eventos por la página o anuncios de la web.|Usando geolocalización, que se avise de eventos cercanos a la ubicación del usuario|
+|Sistema de verificación para no crear eventos “falsos”|Grupo de Whatsapp/Telegram/Otra aplicación de mensajería integrada o externa para coordinación.|
+|Sistema de valoración|Posibilidad de clasificar a los asistentes según sean VIPs, prensa....|
+|Poder compartir los eventos vía RRSS|Posibilidad de "leer la página" para ciegos
   
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+#### Sobre la propuesta de valor
+ La aplicación se basa en un conjunto de grupos que se reunen en una localización, y estos hacen una serie de eventos. Por ello, la aplicación deberá visualizar información sobre los grupos, y cada uno de los eventos que hacen. Cualquier persona que entre a la aplicación podrá ver esos eventos y unirse a ellos.
+
+Al haber posibilidad de que los eventos sean de paga, habría que permitir pasar por una plataforma de pago sencilla y fácil de usar. Una vez finalice el evento el usuario podría valorarlo y unirse al grupo que lo ha hecho por si quiere asistir a más eventos. Por otra parte, habrá gente que tendrá que crear tales grupos y eventos . Estos podrán crear grupos y, a través de ellos, los eventos.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+
+||Grupo 1 (Creadores)|Grupo 2 (Usuarios Asiduos)|Grupo 3 (Usuarios casuales)|
+|-|------------------|--------------------------|---------------------------|
+|Crear un grupo|M|||
+|Crear un evento|H|||
+|Unirse a un grupo|L|M|L|
+|Unirse a un evento|M|H|M|
+|Registrarse|L|L|L|
+|Mandar un mensaje|M|M|L|
+|Hacer una valoración|L|M|L|
+|Publicitar un evento|L|||
+|Consultar ayuda|H|M|M|
+|Solicitar contacto(grupo)|L|L|L|
+|Solicitar contacto(app)|L|L|L|
+|Pagar por un evento||M|M|
+|Consultar "Acerca de..."|L|L|L|
+|Consultar Términos y Condiciones|H|L|L|
+|Consultar eventos|M|H|H
+|Consultar grupos|M|M|M
+Consultar perfil de usuario|L|L|L
+Consultar mensajes|M|M|M
+Consultar notificaciones|H|M|M|
+
+
+## Sitemap
+
+![Sitemap](P2/img/Sitemap.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Login  | Acceder a plataforma
+  Pagina principal| Pagina donde se llega desde el buscador
+  Grupos| Conjunto específico de personas que hacen eventos
+  Eventos| Reuniones donde se hablan de temas concretos
+  Ayuda| Sección para resolver aquellas dudas sobre la página
+  Contacto| Sección para contactar con el webmaster
+  Reserva de plaza| Solicitud para participar en el evento
+  Plataforma de pago| Lugar donde se redirecciona en caso de requerir pago
+  Contactar con el organizador| Lugar de la página donde aclara dudas o referir incidentes al organizador del evento
+  Panel de control de grupos| Zona exclusiva para organizadores o creadores de eventos para gestionar los grupos que dirigen y los eventos correspondientes
+  Gestión de grupos| Zona de organizadores/creadores de eventos para gestionar los grupos pertenecientes.
+  Gestión de eventos| Zona de gestión para organizadores dirigido a crear, notificar o modificar eventos
+  Crear (evento/grupo)| Permite crear un nuevo grupo(o evento)
+  Modificar (evento/grupo)| Permite modificar los datos o eliminar un grupo (o evento)
+  Publicidad de eventos| Zona de gestión de marketing de eventos a través de agencias de publicidad por Internet
+  Temas de ayuda| Tópicos o temas en los que se dividen las distintas posibles preguntas de la página de ayuda
+  FAQs|Del Inglés "Frequently Asked Questions", se tratan de las preguntas frecuentes sobre tal tópico
+  Pregunta| La página correspondiente a tal pregunta.
+  Acerca de | Información sobre la aplicación y la empresa.
+  Términos y Condiciones | Información y bases legales del us de la aplicación.
+  Usuario| Perfil y algunos datos personales básicos del usuario.
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+[>> Míralo aquí](https://github.com/IvanitiX/DIU20/tree/master/P2)
 
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. Mi equipo UX-Case Study 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Analizar lo aprendido de la experiencia MuseApp 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 
->>> Plantear Landing Page 
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
-## Paso 4. UX Check (Usability Testing) 
+## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+>>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
->>>> Práctica A: 
+>>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas 
+>>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Concluya con un ranking de los casos evaluados 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
+>>> Valoración personal 
 
 
 ## Paso 5. Evaluación de Accesibilidad  
@@ -173,11 +203,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-## Conclusión / Valoración de las prácticas
+## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
