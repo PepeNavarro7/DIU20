@@ -15,6 +15,8 @@ Se habrá de mantener un diseño homogéneo y constante entre las distintas vers
 También se tendrá que marcar claramente la diferencia entre loguearse y registrarse, y para facilitar ambos procesos, hacer uso del desbloqueo por huella.
 Por otro lado, hay una gran parte de nuestro diseño inicial que concuerda con las pautas aportadas por Google, como tener una barra de búsqueda destacada, opciones de filtrado y registro de búsquedas, la importancia de las valoraciones, ofrecer opciones de pago externas.
 
+![Imagen Diseño](../img/Disenio.jpg)
+
 ## Historia en Video del UX Case Study
 
 
