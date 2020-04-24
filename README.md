@@ -66,7 +66,7 @@ A partir de lo que se ha visto en la práctica anterior podemos hacernos a la id
 
 [>> Consulta la matriz de captura de ideas aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#-2a-feedback-capture-grid)
   
-#### Sobre la propuesta de valor [>> Más en detalle aquí ]()
+#### Sobre la propuesta de valor [>> Más en detalle aquí ](https://github.com/IvanitiX/DIU20/tree/master/P2#propuesta-de-valor)
  La aplicación se basa en un conjunto de grupos que se reunen en una localización, y estos hacen una serie de eventos. Por ello, la aplicación deberá visualizar información sobre los grupos, y cada uno de los eventos que hacen. Cualquier persona que entre a la aplicación podrá ver esos eventos y unirse a ellos.
 
 Al haber posibilidad de que los eventos sean de paga, habría que permitir pasar por una plataforma de pago sencilla y fácil de usar. Una vez finalice el evento el usuario podría valorarlo y unirse al grupo que lo ha hecho por si quiere asistir a más eventos. Por otra parte, habrá gente que tendrá que crear tales grupos y eventos . Estos podrán crear grupos y, a través de ellos, los eventos.
