@@ -25,7 +25,7 @@ Dejamos el guión del vídeo a título provisional, luego lo cambiamos por su ve
 Pongamos que te gusta el senderismo, el manga, o ir de karaoke, pero no conoces a nadie que le guste también **[Vídeos de stock de Pexels]** 
 
 Ivan más solo que la una en su campo, voz en off
-Pero claro, no quieres hacerlo sólo. **[Ivan a lo John Travolta]**
+Pero claro, no quieres hacerlo sólo. **[[Ivan a lo John Travolta]](https://www.youtube.com/watch?v=RqJVa0fl01w)**
 
 **Pepe en plan vendemotos**
 ¿No sería interesante una app para juntarte con gente así en tu zona? ¡Usa CountWithMe!
