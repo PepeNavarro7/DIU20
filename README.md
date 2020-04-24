@@ -7,7 +7,7 @@ Proyecto: Experiencias de compartir ocio. Propuesta de CountWithMe.
 
 Descripción: 
 
-Logotipo: ![CountWithMe](img/Logo.jpg =32x32)
+Logotipo: ![CountWithMe](img/Logo.jpg | height=32)
 
 Miembros
  * :bust_in_silhouette:   José Manuel Navarro Cuartero     :octocat: ([@9pepe7](https://github.com/9pepe7))
