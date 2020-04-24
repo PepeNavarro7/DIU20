@@ -19,5 +19,24 @@ Por otro lado, hay una gran parte de nuestro diseño inicial que concuerda con l
 
 ## Historia en Video del UX Case Study
 
+Dejamos el guión del vídeo a título provisional, luego lo cambiamos por su versión final
+"**Entre 60 y 90 segundos.**
+**Voz en off, Pantalla con un fondo básico**
+Pongamos que te gusta el senderismo, el manga, o ir de karaoke, pero no conoces a nadie que le guste también **[Vídeos de stock de Pexels]** 
+
+Ivan más solo que la una en su campo, voz en off
+Pero claro, no quieres hacerlo sólo. **[Ivan a lo John Travolta]**
+
+**Pepe en plan vendemotos**
+¿No sería interesante una app para juntarte con gente así en tu zona? ¡Usa CountWithMe!
+**Continúa la voz, pero cambiamos de grabación a CGI, a los mockups por ejemplo**
+En CountWithMe puedes unirte a grupos con tus mismos gustos en tu ciudad, y participar con ellos en eventos por la zona.
+**Transición**
+¿Quieres crear tu grupo? ¡Sin problema! Crea tu grupo en unos cuantos pasos y organiza tus eventos. ¡Lo que quieras hacer allí ya es cosa tuya!
+**Transición**
+Y si te ha gustado, ¡valóralo! Deja tu comentario y haz que más gente se apunte contigo.
+**Vuelta**
+¿Buscas un plan?¿Algo nuevo que hacer? ¡CountWithMe!
+**Logo y nombre**"
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
