@@ -5,9 +5,9 @@ Grupo: DIU3_Lutece.  Curso: 2019/20
 
 Proyecto: Experiencias de compartir ocio. Propuesta de CountWithMe.
 
-Descripción: 
+Descripción: Propuesta de aplicación de eventos basados en grupos afines a los intereses del usuario o en la creación de grupos; y en la creación y asistencia a eventos, con valoraciones y feedback sobre estos.
 
-Logotipo: ![CountWithMe](img/Logo.jpg | height=32)
+Logotipo: <img src="img/Logo.jpg" width=50>
 
 Miembros
  * :bust_in_silhouette:   José Manuel Navarro Cuartero     :octocat: ([@9pepe7](https://github.com/9pepe7))
