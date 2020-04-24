@@ -3,11 +3,11 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3_Lutece.  Curso: 2019/20 
 
-Proyecto: Experiencias de compartir ocio 
+Proyecto: Experiencias de compartir ocio. Propuesta de CountWithMe.
 
 Descripción: 
 
-Logotipo: 
+Logotipo: ![CountWithMe](img/Logo.jpg =32x32)
 
 Miembros
  * :bust_in_silhouette:   José Manuel Navarro Cuartero     :octocat: ([@9pepe7](https://github.com/9pepe7))
@@ -29,23 +29,31 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 Se ha estudiado tres páginas relacionadas con el tema (MeetUp, Eatwith y Artery) y se ha visto que en general son páginas de ocio donde los *hosts* hacen *eventos* en un lugar concreto y permite que la 
 gente se apunte.Dan toda la información sobre el evento, quien lo lleva y quien asiste. Elegimos MeetUp al final por la completitud de opciones que trae. 
 
+[>> Consulta la tabla de comparación](https://github.com/IvanitiX/DIU20/tree/master/P1#-1a-competitive-analysis)
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-*Travis*: Sería un caso donde se enfatiza el caso de uso de la página de asistir a eventos.
-*Laura*: Sería el caso contrario, aquella que quiere crear un evento a través de la página para que la gente asista a esta.
+Para valorar varias perspectivas de uso de tales aplicaciones, hemos decidido hacer dos personas que engloben tales visiones. Clica en el nombre para acceder a su perfil.
+
+[*Travis*](https://github.com/IvanitiX/DIU20/blob/master/P1/img/Persona1.png): Sería un caso donde se enfatiza el caso de uso de la página de asistir a eventos.
+
+[*Laura*](https://github.com/IvanitiX/DIU20/blob/master/P1/img/Persona2.png): Sería el caso contrario, aquella que quiere crear un evento a través de la página para que la gente asista a esta. 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por un lado la de alguien que desea publicar una actividad, y por otro, alguien que busca realizarla.
-*Travis*: Busca un plan para salir por la zona.
-*Laura*: Trata de usar su local para hacer eventos.
+Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por un lado la de alguien que desea publicar una actividad, y por otro, alguien que busca realizarla.Clica en el nombre para ver su journey map.
+
+[*Travis*](https://github.com/IvanitiX/DIU20/blob/master/P1/img/JourneyMap1.png): Busca un plan para salir por la zona.
+
+[*Laura*](https://github.com/IvanitiX/DIU20/blob/master/P1/img/JourneyMap2.png): Trata de usar su local para hacer eventos.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-
-[Enlace al Usability Review en Excel](https://github.com/IvanitiX/DIU20/blob/master/P1/Usability-review-template.xlsx)
+[>> Consulta aquí el análisis que se ha hecho a MeetUp en profundidad](https://github.com/IvanitiX/DIU20/tree/master/P1#-1d-usability-review)
 **Valoración** : 78. 
+
+
 *En general, la experiencia es muy buena, es una página muy completa y bastante user-friendly. Pero a la hora de buscar las actividades, no hay muchas opciones de búsqueda, hay categorías malamente etiquetadas , y no permite hacer cosas más avanzadas y rápidas para usuarios expertos. Nuestras personas, en general, podrían navegar por la página sin muchas dificultades.*
 
 ## Paso 2. UX Design  
@@ -54,18 +62,9 @@ Hemos escogido estas dos experiencias de usuario por ser opuestas, a saber, por 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+A partir de lo que se ha visto en la práctica anterior podemos hacernos a la idea de retroalimentaciones que pueden ayudar a crear una nueva propuesta de app.
 
-
- Interesante | Críticas     
-| ------------- | -------|
-| Crear un grupo es bastante fácil (al menos hasta llegar al proceso de pago)| Homepage para usuarios registrados está mal estructurado.|
-|Información de eventos a golpe de vista| Búsqueda de eventos pobre y poco amigable.|
-|Fácil de encontrar por los buscadores|No hay versión para imprimir tampoco se puede imprimir la página del evento correctamente.|
-|  **Preguntas** | **Nuevas ideas**|
-|Pagar por publicitar eventos por la página o anuncios de la web.|Usando geolocalización, que se avise de eventos cercanos a la ubicación del usuario|
-|Sistema de verificación para no crear eventos “falsos”|Grupo de Whatsapp/Telegram/Otra aplicación de mensajería integrada o externa para coordinación.|
-|Sistema de valoración|Posibilidad de clasificar a los asistentes según sean VIPs, prensa....|
-|Poder compartir los eventos vía RRSS|Posibilidad de "leer la página" para ciegos
+[>> Consulta la matriz de captura de ideas aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#-2a-feedback-capture-grid)
   
 #### Sobre la propuesta de valor
  La aplicación se basa en un conjunto de grupos que se reunen en una localización, y estos hacen una serie de eventos. Por ello, la aplicación deberá visualizar información sobre los grupos, y cada uno de los eventos que hacen. Cualquier persona que entre a la aplicación podrá ver esos eventos y unirse a ellos.
@@ -74,69 +73,27 @@ Al haber posibilidad de que los eventos sean de paga, habría que permitir pasar
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+#### Matriz de usuarios y grupos
+Con la propuesta de valor dada, hemos pensado en qué grupos de usuarios usarían la app y las tareas que harían cada uno, junto con su prioridad.
+
+[>> Consulta la matriz de usuarios y grupos *aquí*](https://github.com/IvanitiX/DIU20/tree/master/P2#-2b-tasks--sitemap)
 
 
-||Grupo 1 (Creadores)|Grupo 2 (Usuarios Asiduos)|Grupo 3 (Usuarios casuales)|
-|-|------------------|--------------------------|---------------------------|
-|Crear un grupo|M|||
-|Crear un evento|H|||
-|Unirse a un grupo|L|M|L|
-|Unirse a un evento|M|H|M|
-|Registrarse|L|L|L|
-|Mandar un mensaje|M|M|L|
-|Hacer una valoración|L|M|L|
-|Publicitar un evento|L|||
-|Consultar ayuda|H|M|M|
-|Solicitar contacto(grupo)|L|L|L|
-|Solicitar contacto(app)|L|L|L|
-|Pagar por un evento||M|M|
-|Consultar "Acerca de..."|L|L|L|
-|Consultar Términos y Condiciones|H|L|L|
-|Consultar eventos|M|H|H
-|Consultar grupos|M|M|M
-Consultar perfil de usuario|L|L|L
-Consultar mensajes|M|M|M
-Consultar notificaciones|H|M|M|
-
-
-## Sitemap
-
-![Sitemap](P2/img/Sitemap.png)
-
+#### Sitemap
+El sitemap representa el flujo de la información de la aplicación, mostrando las secciones y su funcionalidad.
+[>> Mira el sitemap aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#sitemap)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
-
-
-Término | Significado     
-| ------------- | -------
-  Login  | Acceder a plataforma
-  Pagina principal| Pagina donde se llega desde el buscador
-  Grupos| Conjunto específico de personas que hacen eventos
-  Eventos| Reuniones donde se hablan de temas concretos
-  Ayuda| Sección para resolver aquellas dudas sobre la página
-  Contacto| Sección para contactar con el webmaster
-  Reserva de plaza| Solicitud para participar en el evento
-  Plataforma de pago| Lugar donde se redirecciona en caso de requerir pago
-  Contactar con el organizador| Lugar de la página donde aclara dudas o referir incidentes al organizador del evento
-  Panel de control de grupos| Zona exclusiva para organizadores o creadores de eventos para gestionar los grupos que dirigen y los eventos correspondientes
-  Gestión de grupos| Zona de organizadores/creadores de eventos para gestionar los grupos pertenecientes.
-  Gestión de eventos| Zona de gestión para organizadores dirigido a crear, notificar o modificar eventos
-  Crear (evento/grupo)| Permite crear un nuevo grupo(o evento)
-  Modificar (evento/grupo)| Permite modificar los datos o eliminar un grupo (o evento)
-  Publicidad de eventos| Zona de gestión de marketing de eventos a través de agencias de publicidad por Internet
-  Temas de ayuda| Tópicos o temas en los que se dividen las distintas posibles preguntas de la página de ayuda
-  FAQs|Del Inglés "Frequently Asked Questions", se tratan de las preguntas frecuentes sobre tal tópico
-  Pregunta| La página correspondiente a tal pregunta.
-  Acerca de | Información sobre la aplicación y la empresa.
-  Términos y Condiciones | Información y bases legales del us de la aplicación.
-  Usuario| Perfil y algunos datos personales básicos del usuario.
-
+El Sitemap contiene las acciones que luego se usarán para etiquetar las acciones de la aplicación. Pero... ¿qué significan? ¿Es lo mismo crear un grupo que un evento? ¿Qué es eso del *Login*? Por ello, se ha hecho una tabla con los términos que se han usado en el Sitemap y se les asigna un significado con respecto a la funcionalidad de la propuesta de aplicación.
+[>> Consulta la tabla de labelling aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#-2c-labelling)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+Una vez hecho lo anterior, podríamos dar una idea visual de cómo se vería la propuesta de aplicación. Eso sí, sin mucho lujo de detalles.
+Los wireframes están realizados usando Draw.io
 
-[>> Míralo aquí](https://github.com/IvanitiX/DIU20/tree/master/P2)
+[>> Mira el mockup por aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#)
 
 
 ## Paso 3. Mi equipo UX-Case Study 
@@ -146,18 +103,23 @@ Término | Significado
 -----
 
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+Al principio de la práctica se ha analizado una historia de caso de UX, en este caso, Musemap.
+
+En general, vemos que en este UX-Case la estructura es similar a la que hacemos en las prácticas, con adiciones como el uso de la Empathy Map, y cambios a los que no le vemos mucho sentido como que el sitemap se haga tras el mockup final, que si bien han hecho previamente una representación de las redirecciones desde cierto punto, quizás debería haberse pensado previamente al bocetado, y tener en cuenta el labelling.
+
+[>> Enlace al análisis completo](https://github.com/IvanitiX/DIU20/tree/master/P3#an%C3%A1lisis-de-musemap )
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Logo CountWithMe](img/Logo.jpg)
+Este logotipo se hizo usando Photoshop CS6 a un resolución de 256x256 para adaptarse a varios tamaños de iconos. Así, podría usarse como icono de Twitter o Facebook, o ponerse como *tile* en la aplicación (reduciendo el tamaño). Si bien no incluye nada del nombre de la aplicación *CountWithMe*, quisimos enfocarlo como una metáfora de que cuentas con alguien más (de ahí el +1 o *Plus One*)
+Para otras imágenes más anchas podría usarse este logo junto con el nombre de la app como en la siguiente sección.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Junto con el logotipo hicimos varias decisiones con respecto a las guidelines de diseño de Google y elegimos tipografías, colores e iconos que nos habría gustado usar en un desarrollo posterior de la aplicación. Se resumen en la siguiente infografía, [pero hay unos cuantos detalles más aquí](https://github.com/IvanitiX/DIU20/tree/master/P3#propuesta-de-elementos-de-dise%C3%B1o-o-patrones-a-usar)
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![Infografia CountWithMe](img/Disenio.jpg)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----

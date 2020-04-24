@@ -53,6 +53,7 @@ La que hemos elegido en nuestro caso es MeetUp ya que las experiencias son varia
 
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
+[Enlace al Usability Review en Excel](https://github.com/IvanitiX/DIU20/blob/master/P1/Usability-review-template.xlsx)
 
 Una vez hecha la revisión y dada la puntuación, desglosaremos el funcionamiento en los siguientes puntos:
 
