@@ -66,7 +66,7 @@ A partir de lo que se ha visto en la práctica anterior podemos hacernos a la id
 
 [>> Consulta la matriz de captura de ideas aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#-2a-feedback-capture-grid)
   
-#### Sobre la propuesta de valor
+#### Sobre la propuesta de valor [>> Más en detalle aquí ]()
  La aplicación se basa en un conjunto de grupos que se reunen en una localización, y estos hacen una serie de eventos. Por ello, la aplicación deberá visualizar información sobre los grupos, y cada uno de los eventos que hacen. Cualquier persona que entre a la aplicación podrá ver esos eventos y unirse a ellos.
 
 Al haber posibilidad de que los eventos sean de paga, habría que permitir pasar por una plataforma de pago sencilla y fácil de usar. Una vez finalice el evento el usuario podría valorarlo y unirse al grupo que lo ha hecho por si quiere asistir a más eventos. Por otra parte, habrá gente que tendrá que crear tales grupos y eventos . Estos podrán crear grupos y, a través de ellos, los eventos.
@@ -81,11 +81,13 @@ Con la propuesta de valor dada, hemos pensado en qué grupos de usuarios usaría
 
 #### Sitemap
 El sitemap representa el flujo de la información de la aplicación, mostrando las secciones y su funcionalidad.
+
 [>> Mira el sitemap aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#sitemap)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 El Sitemap contiene las acciones que luego se usarán para etiquetar las acciones de la aplicación. Pero... ¿qué significan? ¿Es lo mismo crear un grupo que un evento? ¿Qué es eso del *Login*? Por ello, se ha hecho una tabla con los términos que se han usado en el Sitemap y se les asigna un significado con respecto a la funcionalidad de la propuesta de aplicación.
+
 [>> Consulta la tabla de labelling aquí](https://github.com/IvanitiX/DIU20/tree/master/P2#-2c-labelling)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -112,6 +114,7 @@ En general, vemos que en este UX-Case la estructura es similar a la que hacemos 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 ![Logo CountWithMe](img/Logo.jpg)
+
 Este logotipo se hizo usando Photoshop CS6 a un resolución de 256x256 para adaptarse a varios tamaños de iconos. Así, podría usarse como icono de Twitter o Facebook, o ponerse como *tile* en la aplicación (reduciendo el tamaño). Si bien no incluye nada del nombre de la aplicación *CountWithMe*, quisimos enfocarlo como una metáfora de que cuentas con alguien más (de ahí el +1 o *Plus One*)
 Para otras imágenes más anchas podría usarse este logo junto con el nombre de la app como en la siguiente sección.
 
