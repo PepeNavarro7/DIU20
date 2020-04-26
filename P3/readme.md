@@ -18,9 +18,7 @@ Por otro lado, hay una gran parte de nuestro diseño inicial que concuerda con l
 ![Imagen Diseño](../img/Disenio.jpg)
 
 ## Historia en Video del UX Case Study
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/f5Ky6ARnYV0">
-</iframe> 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=f5Ky6ARnYV0)
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 La valoración que hacemos de la práctica es muy positiva. Ha sido una experiencia nueva el ponerse en la piel de un desarrollador que tiene que "vender" su aplicación, su idea. Consideramos que hemos aprendido mucho, con la elección de la paleta de colores, la fuente o el diseño del logo. 
