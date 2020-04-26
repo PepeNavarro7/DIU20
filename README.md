@@ -127,7 +127,7 @@ Junto con el logotipo hicimos varias decisiones con respecto a las guidelines de
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+[>> Enlace al vídeo y valoración de la Práctica](https://github.com/IvanitiX/DIU20/blob/master/P3/readme.md#historia-en-video-del-ux-case-study)
 
 
 ## Paso 4. Evaluación 
