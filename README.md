@@ -137,9 +137,9 @@ Junto con el logotipo hicimos varias decisiones con respecto a las guidelines de
 ----
 |Grupo de DIU| Grupo analizado| Link a GitHub| Link a valoración|
 |------------|----------------|--------------|------------------|
-| DIU1       | ODAKACI        | [>> :octocat: Enlace](https://github.com/cmartin-moreno/DIU20)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-1)| 
-| DIU2       | Ortega-Y-Gasset        | [>> :octocat: Enlace](https://github.com/romanlarrosa/DIU20)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-2)| 
-| DIU3       | Manduka        | [>> :octocat: Enlace](https://github.com/alexhzr/DIUManduka)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-3)| 
+| DIU1       | ODAKACI        | [>> :octocat: Enlace](https://github.com/cmartin-moreno/DIU20)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-1-misstravel-de-odakaci)| 
+| DIU2       | Ortega-Y-Gasset        | [>> :octocat: Enlace](https://github.com/romanlarrosa/DIU20)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-2-sharee-de-ortega-y-gasset)| 
+| DIU3       | Manduka        | [>> :octocat: Enlace](https://github.com/alexhzr/DIUManduka)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-3-comecon-de-manduka)| 
 
 
 
