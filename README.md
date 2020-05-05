@@ -135,9 +135,11 @@ Junto con el logotipo hicimos varias decisiones con respecto a las guidelines de
 
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
-
-
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+|Grupo de DIU| Grupo analizado| Link a GitHub| Link a valoración|
+|------------|----------------|--------------|------------------|
+| DIU1       | ODAKACI        | [>> :octocat: Enlace](https://github.com/cmartin-moreno/DIU20)| [>> Link]()| 
+| DIU2       | Ortega-Y-Gasset        | [>> :octocat: Enlace](https://github.com/romanlarrosa/DIU20)| [>> Link]()| 
+| DIU3       | Manduka        | [>> :octocat: Enlace](https://github.com/alexhzr/DIUManduka)| [>> Link]()| 
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
@@ -154,27 +156,3 @@ Junto con el logotipo hicimos varias decisiones con respecto a las guidelines de
 >>> Concluya con un ranking de los casos evaluados 
 
 >>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
