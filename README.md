@@ -137,11 +137,10 @@ Junto con el logotipo hicimos varias decisiones con respecto a las guidelines de
 ----
 |Grupo de DIU| Grupo analizado| Link a GitHub| Link a valoración|
 |------------|----------------|--------------|------------------|
-| DIU1       | ODAKACI        | [>> :octocat: Enlace](https://github.com/cmartin-moreno/DIU20)| [>> Link]()| 
-| DIU2       | Ortega-Y-Gasset        | [>> :octocat: Enlace](https://github.com/romanlarrosa/DIU20)| [>> Link]()| 
-| DIU3       | Manduka        | [>> :octocat: Enlace](https://github.com/alexhzr/DIUManduka)| [>> Link]()| 
+| DIU1       | ODAKACI        | [>> :octocat: Enlace](https://github.com/cmartin-moreno/DIU20)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-1)| 
+| DIU2       | Ortega-Y-Gasset        | [>> :octocat: Enlace](https://github.com/romanlarrosa/DIU20)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-2)| 
+| DIU3       | Manduka        | [>> :octocat: Enlace](https://github.com/alexhzr/DIUManduka)| [>> Link](https://github.com/IvanitiX/DIU20/tree/master/P4#caso-3)| 
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
