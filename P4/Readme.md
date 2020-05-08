@@ -12,7 +12,7 @@ Descripcion y hoja de valoración.*-- puntos (Estamos en ello)*
 
 ## Caso 2. SHAREE, de Ortega-Y-Gasset
 
-Descripcion y hoja de valoración.*75 puntos*
+El equipo OrtegayGasset presenta una propuesta convincente para facilitar la vida de aquellos que, o bien buscan piso, o bien inquilinos, Sharee. En cuanto a los diferentes ejercicios particulares, destacamos positivamente los guidelines y el logotipo. Como puntos negativo, una propuesta de diseño casi inexistente o el informe de usabilidad. *75 puntos*
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU2.Ortega-Y-Gasset_review.xls)
 
