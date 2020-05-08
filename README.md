@@ -155,9 +155,9 @@ Puedes ver sus experiencias [aquí](https://github.com/IvanitiX/DIU20/tree/maste
 
 | Posición | Puntuación | Nombre de la app | Grupo  | Valoración |
 |----------|------------|------------------|--------|------------|
-| 1º | 75 puntos | [Sharee](https://github.com/romanlarrosa/DIU20) | OrtegayGasset |[Link](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU2.Ortega-Y-Gasset_review.xls)|
-| 2º | 69 puntos | [MissTravel](https://github.com/cmartin-moreno/DIU20) | ODAKACI |[Link](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU1.ODAKACI_review.xls)|
-| 3º | 59 puntos | [Comecon](https://github.com/alexhzr/DIUManduka) | Manduka |[Link](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU3.Manduka_review.xlsx)|
+| 1º | 75 puntos | [Sharee](https://github.com/romanlarrosa/DIU20) | OrtegayGasset |
+| 2º | 69 puntos | [MissTravel](https://github.com/cmartin-moreno/DIU20) | ODAKACI |
+| 3º | 59 puntos | [Comecon](https://github.com/alexhzr/DIUManduka) | Manduka |
 
 
 Puedes ver nuestras conclusiones [aquí](https://github.com/IvanitiX/DIU20/tree/master/P4#conclusiones)
