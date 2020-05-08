@@ -146,7 +146,8 @@ Junto con el logotipo hicimos varias decisiones con respecto a las guidelines de
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Para este User Testing hemos usado la persona de [Travis](https://github.com/IvanitiX/DIU20/blob/master/P1/img/Persona1.png), siendo él quien esté navegando por las páginas para proceder a unirse a eventos, obtener viajes o compartir piso.
+Puedes ver sus experiencias [aquí](https://github.com/IvanitiX/DIU20/tree/master/P4#user-testing)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
