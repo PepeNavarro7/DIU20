@@ -153,8 +153,8 @@ Puedes ver sus experiencias [aquí](https://github.com/IvanitiX/DIU20/tree/maste
 ![Método UX](img/Survey.png) 4.c Ranking 
 ----
 
-| Posición | Puntuación | Nombre de la app | Grupo  | Valoración |
-|----------|------------|------------------|--------|------------|
+| Posición | Puntuación | Nombre de la app | Grupo  |
+|----------|------------|------------------|--------|
 | 1º | 75 puntos | [Sharee](https://github.com/romanlarrosa/DIU20) | OrtegayGasset |
 | 2º | 69 puntos | [MissTravel](https://github.com/cmartin-moreno/DIU20) | ODAKACI |
 | 3º | 59 puntos | [Comecon](https://github.com/alexhzr/DIUManduka) | Manduka |
