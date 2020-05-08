@@ -33,3 +33,5 @@ Los chicos de Manduka ha desarrollado una historia de diseño UX basado en exper
 
 
 ## Conclusiones
+Como conclusión, el punto más relevante que sacamos es la importacia de exponer el trabajo propio de una forma atractiva y fácil de leer, ya que eso afecta mucho a la visión que van a tener los demás del trabajo. 
+En este caso, destacamos la importancia de un readme principal bien escrito, sin faltas de ortografía ni de expresión, bien resumido y con enlaces a los readme de las distintas practicas si se desea ver algo en mayor detalle. También encontramos muy importantes la realización de tanto un logotipo como un vídeo que encapsulen bien aquello que bisca mostrar la app.
