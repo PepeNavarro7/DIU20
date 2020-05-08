@@ -7,7 +7,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 Descripcion y hoja de valoración.*-- puntos (Estamos en ello)*
 
-[>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU1.ODAKACI_review.xlsx)
+[>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU1.ODAKACI_review.xls)
 
 
 ## Caso 2. SHAREE, de Ortega-Y-Gasset
