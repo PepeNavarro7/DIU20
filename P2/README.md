@@ -5,9 +5,6 @@
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
  Interesante | Críticas     
 | ------------- | -------|
 | Crear un grupo es bastante fácil (al menos hasta llegar al proceso de pago)| Homepage para usuarios registrados está mal estructurado.|
@@ -37,7 +34,6 @@ Ambos tipos de personas (Creadores o usuarios) pueden tener inquietudes, dudas o
 ![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
 
 ||Grupo 1 (Creadores)|Grupo 2 (Usuarios Asiduos)|Grupo 3 (Usuarios casuales)|
 |-|------------------|--------------------------|---------------------------|
@@ -55,12 +51,13 @@ Ambos tipos de personas (Creadores o usuarios) pueden tener inquietudes, dudas o
 |Pagar por un evento||M|M|
 |Consultar "Acerca de..."|L|L|L|
 |Consultar Términos y Condiciones|H|L|L|
-|Consultar eventos|M|H|H
-|Consultar grupos|M|M|M
-Consultar perfil de usuario|L|L|L
-Consultar mensajes|M|M|M
-Consultar notificaciones|H|M|M|
+|Consultar eventos|M|H|H|
+|Consultar grupos|M|M|M|
+|Consultar perfil de usuario|L|L|L|
+|Consultar mensajes|M|M|M|
+|Consultar notificaciones|H|M|M|
 
+Nivel de uso: H (alto), M (medio), L (bajo)
 
 ## Sitemap
 
@@ -69,8 +66,6 @@ Consultar notificaciones|H|M|M|
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
@@ -161,7 +156,3 @@ Término | Significado
 
 ![CreaEvento](img/PantallaCrearEvento.png)
 ![ModEvento](img/PantallaModificarEvento.png)
-
-
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
