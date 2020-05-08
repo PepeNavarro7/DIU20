@@ -60,5 +60,7 @@ Los chicos de Manduka ha desarrollado una historia de diseño UX basado en exper
 
 ## Conclusiones
 Como conclusión, el punto más relevante que sacamos es la importacia de exponer el trabajo propio de una forma atractiva y fácil de leer, ya que eso afecta mucho a la visión que van a tener los demás del trabajo. 
+
 En este caso, destacamos la importancia de un readme principal bien escrito, sin faltas de ortografía ni de expresión, bien resumido y con enlaces a los readme de las distintas practicas si se desea ver algo en mayor detalle. También encontramos muy importantes la realización de tanto un logotipo como un vídeo que encapsulen bien aquello que bisca mostrar la app.
-De los 3 casos evaluados, hemos observados diversas decisiones en el desarrollo de sus apps con las que no estamos de acuerdo, y otras que nos han causado curiosidad. Destacamos positivamente el caso 2, Sharee, con 75 puntos; detrás de éste el 1, MissTravel, con 69 puntos; y por último el 3, Comecon, con 59 puntos.
+
+De los 3 casos evaluados, hemos observado diversas decisiones en el desarrollo de sus apps con las que no estamos de acuerdo, y otras que nos han causado curiosidad. Destacamos positivamente el caso 2, Sharee, con 75 puntos; detrás de éste el 1, MissTravel, con 69 puntos; y por último el 3, Comecon, con 59 puntos.
