@@ -27,7 +27,7 @@ El equipo OrtegayGasset presenta una propuesta convincente para facilitar la vid
 | - Guidelines| - Propuesta de valor casi inexistente|
 | - Logo| - Informe de usabilidad|
 
- **Valoración final** :*75 puntos*
+ **Valoración final**: *75 puntos*
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU2.Ortega-Y-Gasset_review.xls)
 
