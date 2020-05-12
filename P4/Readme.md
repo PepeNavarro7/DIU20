@@ -40,7 +40,7 @@ Los chicos de Manduka ha desarrollado una historia de diseño UX basado en exper
 |Lo bueno|Lo malo|
 |--------|-------|
 | - Personajes| - Un readme muy desordenado e incompleto|
-| - Labelling| -Propuesta de valor pobre. Es útil para seguir el hilo de la P2 |
+| - Labelling| - Propuesta de valor pobre. Es útil para seguir el hilo de la P2 |
 
 **Valoración final**: *59 puntos*
 
