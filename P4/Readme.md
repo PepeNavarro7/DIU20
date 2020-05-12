@@ -5,7 +5,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1. MissTravel, de ODAKACI
 
-El equipo ODAKACI desarrolla una aplicación para encontrar compañeros de viaje llamada MissTravel. En cuanto a la práctica, el readme de ésta es un desorden, en cuanto a que las carpetas del P1 y P2 están vacías, y que hay muchas partes que en lugar de estar en los propios readme, están alojadas en drive aparte. E incluso hay un drive al cual ni siquiera se puede acceder para ver la parte realizada. En cuanto a las diferentes partes, se puede destacar el checklist o el labelling. *69 puntos*
+El equipo ODAKACI desarrolla una aplicación para encontrar compañeros de viaje llamada MissTravel. En cuanto a la práctica, el readme de ésta es un desorden, en cuanto a que las carpetas del P1 y P2 están vacías, y que hay muchas partes que en lugar de estar en los propios readme, están alojadas en drive aparte, cuando sería mucho más cómodo el que estuvieran alojadas en el propio github. En cuanto a las diferentes partes, se puede destacar el checklist o el labelling. *69 puntos*
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU1.ODAKACI_review.xls)
 
