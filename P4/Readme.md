@@ -10,7 +10,8 @@ El equipo ODAKACI desarrolla una aplicación para encontrar compañeros de viaje
 |Lo bueno|Lo malo|
 |--------|-------|
 | - Checklist de evaluación| - Un readme muy desordenado e incompleto|
-| - Labelling| -Imágenes de Wireframe fuera de Github|
+| - Labelling| - Imágenes de Wireframe fuera de Github|
+
  **Valoración final**: *69 puntos*
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU1.ODAKACI_review.xls)
@@ -42,7 +43,6 @@ Los chicos de Manduka ha desarrollado una historia de diseño UX basado en exper
 | - Labelling| -Propuesta de valor pobre. Es útil para seguir el hilo de la P2 |
 
 **Valoración final**: *59 puntos*
-
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU3.Manduka_review.xlsx)
 
@@ -88,4 +88,5 @@ Como conclusión, el punto más relevante que sacamos es la importacia de expone
 
 En este caso, destacamos la importancia de un readme principal bien escrito, sin faltas de ortografía ni de expresión, bien resumido y con enlaces a los readme de las distintas practicas si se desea ver algo en mayor detalle. También encontramos muy importantes la realización de tanto un logotipo como un vídeo que encapsulen bien aquello que se busca mostrar con la app.
 
-De los 3 casos evaluados, hemos observado diversas decisiones en el desarrollo de sus apps con las que no estamos de acuerdo, como la organización del readme del caso 1, y otras que nos han causado curiosidad, como la propuesta de diseño del caso 2. Destacamos positivamente el caso 2, Sharee, con 75 puntos; detrás de éste el 1, MissTravel, con 69 puntos; y por último el 3, Comecon, con 59 puntos.
+De los 3 casos evaluados, como cosas comunes, hemos observado una pobre organización de los respectivos readme, y como caso positivo, el enfoque que cada equipo le dio a sus vídeos.
+Por otro lado, algunas decisiones en el desarrollo de las apps nos han causado curiosidad, como la propuesta de diseño del caso 2, o el labelling del caso 1. Finalmente, destacamos positivamente el caso 2, Sharee, con 75 puntos; detrás de éste el 1, MissTravel, con 69 puntos; y por último el 3, Comecon, con 59 puntos.
