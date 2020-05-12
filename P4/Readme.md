@@ -5,23 +5,48 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1. MissTravel, de ODAKACI
 
-El equipo ODAKACI desarrolla una aplicación para encontrar compañeros de viaje llamada MissTravel. En cuanto a la práctica, el readme de ésta es un desorden, en cuanto a que las carpetas del P1 y P2 están vacías, y que hay muchas partes que en lugar de estar en los propios readme, están alojadas en drive aparte, cuando sería mucho más cómodo el que estuvieran alojadas en el propio github. En cuanto a las diferentes partes, se puede destacar el checklist o el labelling. *69 puntos*
+El equipo ODAKACI desarrolla una aplicación para encontrar compañeros de viaje llamada MissTravel.
+
+|Lo bueno|Lo malo|
+|--------|-------|
+| - Checklist de evaluación| - Un readme muy desordenado e incompleto|
+| - Labelling| -Imágenes de Wireframe fuera de Github|
+ **Valoración final**: *69 puntos*
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU1.ODAKACI_review.xls)
 
+[>> Link al repositorio :octocat:](https://github.com/cmartin-moreno/DIU20)
 
 ## Caso 2. SHAREE, de Ortega-Y-Gasset
 
-El equipo OrtegayGasset presenta una propuesta convincente para facilitar la vida de aquellos que, o bien buscan piso, o bien inquilinos, Sharee. En cuanto a los diferentes ejercicios particulares, destacamos positivamente los guidelines y el logotipo. Como puntos negativo, una propuesta de diseño casi inexistente o el informe de usabilidad. *75 puntos*
+El equipo OrtegayGasset presenta una propuesta convincente para facilitar la vida de aquellos que, o bien buscan piso, o bien inquilinos, Sharee. 
+
+|Lo bueno|Lo malo|
+|--------|-------|
+| - Guidelines| - Propuesta de valor casi inexistente|
+| - Logo| - Informe de usabilidad|
+
+ **Valoración final** :*75 puntos*
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU2.Ortega-Y-Gasset_review.xls)
+
+[>> Link al repositorio :octocat:](https://github.com/romanlarrosa/DIU20)
 
 
 ## Caso 3. Comecon, de Manduka
 
-Los chicos de Manduka ha desarrollado una historia de diseño UX basado en experiencias para compartir ocio llamado Comecon. En nuestra opinión, nos parece un caso algo flojo. El repositorio era un desorden, estaba algo incompleto. Había cosas rescatables (los personajes o el labelling, por ejemplo). No hemos visto claramente una propuesta de valor (si bien nos fijamos en las *mejoras*), que es bastante importante para el desarrollo de la P2 ya que así se puede seguir bien un hilo conductor. *59 puntos*
+Los chicos de Manduka ha desarrollado una historia de diseño UX basado en experiencias para compartir ocio llamado Comecon. 
+|Lo bueno|Lo malo|
+|--------|-------|
+| - Personajes| - Un readme muy desordenado e incompleto|
+| - Labelling| -Propuesta de valor pobre. Es útil para seguir el hilo de la P2 |
+
+**Valoración final**: *59 puntos*
+
 
 [>> Enlace al Excel](https://github.com/IvanitiX/DIU20/blob/master/P4/DIU3.Manduka_review.xlsx)
+
+[>> Link al repositorio :octocat:](https://github.com/alexhzr/DIUManduka)
 
 ## User Testing
 
