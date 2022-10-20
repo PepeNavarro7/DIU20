@@ -10,7 +10,7 @@ Descripción: Propuesta de aplicación de eventos basados en grupos afines a los
 Logotipo: <img src="img/Logo.jpg" width=50>
 
 Miembros
- * :bust_in_silhouette:   José Manuel Navarro Cuartero     :octocat: ([@9pepe7](https://github.com/9pepe7))
+ * :bust_in_silhouette:   José Manuel Navarro Cuartero     :octocat: ([@PepeNavarro7](https://github.com/PepeNavarro7))
  * :bust_in_silhouette:  Iván Valero Rodríguez     :octocat: ([@IvanitiX](https://github.com/IvanitiX))
 ----- 
 
