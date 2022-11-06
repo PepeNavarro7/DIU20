@@ -1,5 +1,5 @@
 # DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
+Prácticas Diseño Interfaces de Usuario (Economía Colaborativa) 
 
 Grupo: DIU3_Lutece.  Curso: 2019/20 
 
